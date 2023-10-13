@@ -87,7 +87,7 @@ for fecha, menu in menu_dict.items():
 
 
 # Guardar el calendario en un archivo .ics
-with open('menu_calendario.ics', 'w') as f:
+with open('menu_calendario.ics', 'w', encoding='utf-8') as f:
     f.writelines(cal)
 
 print("Calendario creado exitosamente en 'menu_calendario.ics'")
