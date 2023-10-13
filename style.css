@@ -61,3 +61,10 @@ header, main, footer {
   height: auto;
   margin: 0 auto;
 }
+
+footer {
+  border-top: 1px solid #FD5416;
+  margin-top: 80px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
