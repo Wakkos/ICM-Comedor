@@ -1,0 +1,63 @@
+*, ::before, ::after {
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+	line-height:var(--line-height);
+	background-repeat: no-repeat;
+}
+html {
+	block-size: 100%;
+	word-break:break-word;
+	overflow-wrap:break-word;
+	-webkit-hyphens: auto;
+	hyphens: auto;
+	hyphenate-limit-chars:auto 3; /* only chrome >= 109 */
+	tab-size: 4;
+	--line-height: calc(1em + .5rem);
+	-webkit-tap-highlight-color: transparent;
+	font-family: system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+	font-size: calc(12px + .3vw);
+	scrollbar-gutter: stable;
+	overflow-y: auto;
+}
+body {
+	margin:auto;
+	min-block-size: 100%;
+	font-size:max(1rem, 16px); /* 16px => safari ios dont zoom in */
+}
+h1, h2, h3, h4, h5, h6 {
+	margin-top:1em;
+	margin-bottom:1em;
+}
+h1, h2, h3, h4, h5, h6, figcaption, blockquote, legend, caption { /* th? */
+	text-wrap: balance; /* chrome 113? */
+}
+
+img, svg, video, canvas, audio, video, iframe {
+	width: 100%;
+	width:-moz-available;
+	width:-webkit-fill-available;
+}
+img, video, canvas {
+	object-fit:cover;
+	height: auto;
+}
+
+
+
+header, main, footer {
+  max-width: 690px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.title  {
+  text-align: center;
+}
+
+.title svg {
+  display: block;
+  max-width: 350px;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
