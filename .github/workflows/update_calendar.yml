@@ -27,7 +27,7 @@ jobs:
         pip install -r requirements.txt
 
     - name: Run script
-      run: python script.py
+      run: python menu_only.py
 
     - name: Commit and push if changed
       run: |
