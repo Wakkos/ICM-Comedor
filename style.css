@@ -69,6 +69,11 @@ footer {
   padding-bottom: 40px;
 }
 
+.logo {
+	max-width: 150px;
+	margin: 0 auto;
+}
+
 
 /* Fullcalendar rewrite options */
 .fc-h-event .fc-event-main {
