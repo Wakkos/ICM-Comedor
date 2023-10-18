@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-2SJ31PEFLW');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calendario del Comedor</title>
+  <link rel="stylesheet" href="style.css">
+
+    <title>Menú del Comedor ICM</title>
+    <meta name="description" content="Calendario del Menú del Comedor ICM.">
+    <meta name="keywords" content="calendario, ICM, colegio, nutrición">
+    <meta property="og:image"
+      content="https://raw.githubusercontent.com/Wakkos/ICM-Comedor/main/logo-calendario-og-icm.png">
+    <meta property="og:url" content="https://github.com/Wakkos">
+    <!-- optionally add more Open Graph metadata: http://ogp.me/#metadata -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="icon" type="image/png" href="favicon.png">
+
+
+  <!-- FullCalendar library -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/6.1.9/index.global.min.js"
+  integrity="sha512-XcSx5820pzZbdZYdvoBBKzuOivQv7oQMd+7JuUHh0jhMwqsWHOf+yRfZRxCtV0ySEKWtKblijTdl9pvODcmD7A=="
+  crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <!-- FullCalendar Spanish Locale -->
+  <script>
+    (function (global, factory) {
+        typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
+          typeof define === 'function' && define.amd ? define(factory) :
+            (global = global || self, (global.FullCalendarLocales = global.FullCalendarLocales || {}, global.FullCalendarLocales.es = factory()));
+      }(this, function () {
+        'use strict';
+
+        var es = {
+          code: "es",
+          week: {
+            dow: 1,
+            doy: 4 // The week that contains Jan 4th is the first week of the year.
+          },
+          buttonText: {
+            prev: "Ant",
+            next: "Sig",
+            today: "Hoy",
+            month: "Mes",
+            week: "Semana",
+            day: "Día",
+            list: "Agenda"
+          },
+          weekLabel: "Sm",
+          allDayHtml: "Todo<br/>el día",
+          eventLimitText: "más",
+          noEventsMessage: "No hay eventos para mostrar"
+        };
+
+        return es;
+
+      }));
+  </script>
+
+
+</head>
+
+<body class="calendar">
+  <h1>Calendario del Comedor ICM</h1>
+  <div id='calendar'></div>
+
+  <script type="text/javascript">
+    // Convertir la variable de plantilla menus a una cadena JSON,
+    // y luego parsearla a un objeto JavaScript.
+    var menus = {"2023-10-02": "Sopa de fideos\r\nPechuga de pollo rebozada\r\nEnsalada, pan y\r\nFruta del tiempo", "2023-10-03": "Guiso de lentejas\r\nFilete de pescado al horno con mayonesa opcional\r\nEnsalada, pan y\r\nFruta del tiempo", "2023-10-04": "Crema de verduras\r\nHamburguesas a la plancha\r\nEnsalada, pan y\r\nFruta del tiempo", "2023-10-05": "Ensalada de patata cocida con huevo duro y tomate\r\nCroquetas de carne, pan y\r\nYogur y/o Fruta del tiempo", "2023-10-06": "Arroz blanco con tomate frito opcional\r\nRabas de calamar\r\nEnsalada, pan y\r\nFruta del tiempo", "2023-10-09": "DÍA 9 D´OCTUBRE", "2023-10-10": "Espaguetis a la carbonara\r\nCalamares a la romana\r\nEnsalada, pan y\r\nFruta del tiempo", "2023-10-11": "Paella valenciana\r\nEnsalada, pan y\r\nFruta del tiempo", "2023-10-12": "VIRGEN DEL PILAR", "2023-10-13": "FIESTA", "2023-10-16": "Sopa de fideos\r\nLomo a la plancha con patatas fritas\r\nEnsalada, pan y\r\nHELADO y/o Fruta del tiempo", "2023-10-17": "Guiso de garbanzos\r\nCroquetas de pescado\r\nEnsalada, pan y\r\nFruta del tiempo", "2023-10-18": "Crema de verduras\r\nAlbóndigas en salsa\r\nEnsalada, pan y\r\nFruta del tiempo", "2023-10-19": "Sopa hortelana\r\nTortilla de patatas\r\nEnsalada, pan y\r\nFruta del tiempo", "2023-10-20": "Macarrones con tomate y queso opcional\r\nRabas de calamar\r\nEnsalada, pan y\r\nFruta del tiempo", "2023-10-23": "Patatas guisadas con costillas\r\nTortilla a la francesa\r\nEnsalada, pan y\r\nFruta del tiempo", "2023-10-24": "Guiso de alubias\r\nVaritas de Pescado al horno\r\nEnsalada, pan y\r\nFruta del tiempo", "2023-10-25": "Sopa de fideos\r\nLonganizas asadas a la plancha con patatas fritas\r\nEnsalada, pan y\r\nFruta del tiempo", "2023-10-26": "Arroz al horno\r\nEnsalada, pan y\r\nYogur y/o Fruta del tiempo", "2023-10-27": "Crema de verduras\r\nFilete de merluza al horno\r\nEnsalada, pan y\r\nFruta del tiempo", "2023-10-30": "Macarrones a la boloñesa\r\nEnsalada, pan y\r\nFruta del tiempo", "2023-10-31": "Guiso de lentejas\r\nCalamares a la romana\r\nEnsalada, pan y\r\nFruta del tiempo", "2023-11-01": "Sopa de fideos\r\nLonganizas asadas a la plancha con patatas fritas\r\nEnsalada, pan y\r\nFruta del tiempo", "2023-11-02": "Sopa de fideos Longanizas asadas con patatas fritas Ensalada, pan yFruta del tiempo", "2023-11-03": "Crema de verduras Rabas de Calamar Ensalada, pan yFruta del tiempo y/o Yogur"};
+
+    document.addEventListener('DOMContentLoaded', function () {
+      var events = [];
+      for (var fecha in menus) {
+        events.push({
+          title: menus[fecha],  // No modificaremos esto aquí, pero se usará en eventContent
+          start: fecha
+        });
+      }
+
+      var calendarEl = document.getElementById('calendar');
+      var calendar = new FullCalendar.Calendar(calendarEl, {
+        initialView: 'dayGridMonth',
+        events: events,
+        headerToolbar: {
+          left: '',
+          center: 'title',
+          right: ''
+        },
+        navLinks: false,
+        editable: true,
+        dayMaxEvents: true,
+        locale: 'es',  // Especificar el idioma español
+        hiddenDays: [0, 6],  // Oculta domingo (0) y sábado (6)
+        fixedWeekCount: false,  // No muestra semanas adicionales del siguiente mes
+        height: 'auto',  // Ajusta la altura del calendario para que encaje con el número de semanas
+        eventContent: function (arg) {  // Define cómo se renderizarán los eventos
+          var title = arg.event.title.replace(/\r?\n/g, '<br>');  // Reemplaza \n o \r por <br>
+          return { html: title };  // Retorna el título modificado como HTML
+        }
+      });
+
+      calendar.render();
+    });
+  </script>
+
+
+
+</body>
+
+</html>

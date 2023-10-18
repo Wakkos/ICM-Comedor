@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-2SJ31PEFLW');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calendario del Comedor</title>
+  <link rel="stylesheet" href="style.css">
+
+    <title>Menú del Comedor ICM</title>
+    <meta name="description" content="Calendario del Menú del Comedor ICM.">
+    <meta name="keywords" content="calendario, ICM, colegio, nutrición">
+    <meta property="og:image"
+      content="https://raw.githubusercontent.com/Wakkos/ICM-Comedor/main/logo-calendario-og-icm.png">
+    <meta property="og:url" content="https://github.com/Wakkos">
+    <!-- optionally add more Open Graph metadata: http://ogp.me/#metadata -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="icon" type="image/png" href="favicon.png">
+
+
+  <!-- FullCalendar library -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/6.1.9/index.global.min.js"
+  integrity="sha512-XcSx5820pzZbdZYdvoBBKzuOivQv7oQMd+7JuUHh0jhMwqsWHOf+yRfZRxCtV0ySEKWtKblijTdl9pvODcmD7A=="
+  crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+  <!-- FullCalendar Spanish Locale -->
+  <script>
+    (function (global, factory) {
+        typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
+          typeof define === 'function' && define.amd ? define(factory) :
+            (global = global || self, (global.FullCalendarLocales = global.FullCalendarLocales || {}, global.FullCalendarLocales.es = factory()));
+      }(this, function () {
+        'use strict';
+
+        var es = {
+          code: "es",
+          week: {
+            dow: 1,
+            doy: 4 // The week that contains Jan 4th is the first week of the year.
+          },
+          buttonText: {
+            prev: "Ant",
+            next: "Sig",
+            today: "Hoy",
+            month: "Mes",
+            week: "Semana",
+            day: "Día",
+            list: "Agenda"
+          },
+          weekLabel: "Sm",
+          allDayHtml: "Todo<br/>el día",
+          eventLimitText: "más",
+          noEventsMessage: "No hay eventos para mostrar"
+        };
+
+        return es;
+
+      }));
+  </script>
+
+
+</head>
+
+<body class="calendar">
+  <h1>Calendario del Comedor ICM</h1>
+  <div id='calendar'></div>
+
+  <script type="text/javascript">
+    // Convertir la variable de plantilla menus a una cadena JSON,
+    // y luego parsearla a un objeto JavaScript.
+    var menus = {{ menus | safe }};
+
+    document.addEventListener('DOMContentLoaded', function () {
+      var events = [];
+      for (var fecha in menus) {
+        events.push({
+          title: menus[fecha],  // No modificaremos esto aquí, pero se usará en eventContent
+          start: fecha
+        });
+      }
+
+      var calendarEl = document.getElementById('calendar');
+      var calendar = new FullCalendar.Calendar(calendarEl, {
+        initialView: 'dayGridMonth',
+        events: events,
+        headerToolbar: {
+          left: '',
+          center: 'title',
+          right: ''
+        },
+        navLinks: false,
+        editable: true,
+        dayMaxEvents: true,
+        locale: 'es',  // Especificar el idioma español
+        hiddenDays: [0, 6],  // Oculta domingo (0) y sábado (6)
+        fixedWeekCount: false,  // No muestra semanas adicionales del siguiente mes
+        height: 'auto',  // Ajusta la altura del calendario para que encaje con el número de semanas
+        eventContent: function (arg) {  // Define cómo se renderizarán los eventos
+          var title = arg.event.title.replace(/\r?\n/g, '<br>');  // Reemplaza \n o \r por <br>
+          return { html: title };  // Retorna el título modificado como HTML
+        }
+      });
+
+      calendar.render();
+    });
+  </script>
+
+
+
+</body>
+
+</html>
