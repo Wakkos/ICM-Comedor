@@ -68,3 +68,38 @@ footer {
   padding-top: 40px;
   padding-bottom: 40px;
 }
+
+.logo {
+	max-width: 150px;
+	margin: 0 auto;
+}
+
+
+/* Fullcalendar rewrite options */
+.fc-h-event .fc-event-main {
+	white-space: normal;
+	padding: 3px;
+	color: black;
+}
+
+.fc-h-event {
+	background-color: transparent;
+  border: none;
+}
+.calendar {
+	padding: 8px;
+	max-width: 1024px;
+	margin: 0 auto;
+}
+
+.fc .fc-daygrid-day:nth-child(even) {
+	background-color: hsla(200, 88%, 59%, 0.1);
+}
+
+.fc .fc-daygrid-day:nth-child(odd) {
+	background-color: hsla(0, 100%, 76%, 0.1);
+}
+
+.fc .fc-daygrid-day.fc-day-today {
+  background-color: rgba(255,220,40,.35);
+}

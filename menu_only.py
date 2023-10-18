@@ -1,7 +1,9 @@
 import requests
+import json
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 from ics import Calendar, Event
+from jinja2 import Environment, FileSystemLoader
 
 URL = "https://icmaria.es/menu-comedor/"
 response = requests.get(URL)
@@ -84,6 +86,32 @@ for fecha, menu in menu_dict.items():
         semana_actual += 1
 
 
+# Configura Jinja2 para cargar la plantilla
+env = Environment(loader=FileSystemLoader('templates'))
+template = env.get_template('calendar_template.html')
+# Rellena la plantilla con los datos del calendario
+# Convertir las claves datetime a strings en formato ISO
+menu_dict_str_keys = {k.strftime('%Y-%m-%d'): v for k, v in menu_dict.items()}
+# Suponiendo que menu_dict ya está definido y lleno de datos
+menu_dict = {k: v for k, v in menu_dict.items() if k.weekday() < 5 and k.month == datetime.now().month}
+
+def escape_control_characters(s):
+    return s.replace('\n', '\\n').replace('\r', '\\r')
+
+# Convertir el diccionario a una cadena JSON
+json_str = json.dumps(menu_dict_str_keys, ensure_ascii=False)
+
+# Escapar los caracteres de control
+json_str_escaped = escape_control_characters(json_str)
+
+# Luego pasas este nuevo diccionario al template
+html_output = template.render(mes=mes_ingles, menus=json_str_escaped)
+
+
+
+# Escribe el HTML resultante en un archivo
+with open('calendar.html', 'w', encoding='utf-8') as file:
+    file.write(html_output)
 
 
 # Guardar el calendario en un archivo .ics
