@@ -14,6 +14,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Set up environment variables
+      env:
+        GH_TOKEN: ${{ secrets.CALENDAR_TOKEN }}
+      run: echo "GH_TOKEN is set"
+
+
     - name: Check out repository
       uses: actions/checkout@v2
 
