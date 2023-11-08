@@ -40,3 +40,7 @@ jobs:
         git add -A
         git diff --quiet && git diff --staged --quiet || git commit -m "Update calendar"
         git push
+
+    - name: Manual Trigger
+      if: github.event_name == 'workflow_dispatch'
+      run: echo "Este flujo se ejecutó manualmente."
