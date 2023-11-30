@@ -2,153 +2,153 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Guiso de alubias\r\nCalamares a la romana\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl : 623\,89\nHC: 75\,58\nProt: 28\,47\nLip: 20\,25
-DTSTART:20231128T000000Z
-SUMMARY:Menú del Comedor
-UID:dec1e1d4-444e-4389-b108-1055aede17fd@dec1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n\nValor Nutricional: Kcl: 698\,38\nHC: 91\,40\nProt: 31\,43\nLip: 20\,45
-DTSTART:20231208T000000Z
-SUMMARY:Menú del Comedor
-UID:ea056567-f976-4cff-b073-352d60c025b3@ea05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Crema de verdura\r\nLonganizas asadas con patatas fritas\r\nEnsalada\, pan y Fruta del tiempo\n\nValor Nutricional: Kcl: 698\,38\nHC: 91\,40\nProt: 31\,43\nLip: 20\,45
-DTSTART:20231204T000000Z
-SUMMARY:Menú del Comedor
-UID:d779d276-df80-4a90-8fbc-499c259ce959@d779.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sopa hortelana\r\nTortilla de patatas\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl: 831\,71\nHC: 102\,66\nProt: 35\,42\nLip: 28\,09
-DTSTART:20231123T000000Z
-SUMMARY:Menú del Comedor
-UID:227fafee-bcec-49d1-af5f-8887f8cf6bb4@227f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Arroz al horno\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl : 623\,89\nHC: 75\,58\nProt: 28\,47\nLip: 20\,25
-DTSTART:20231130T000000Z
-SUMMARY:Menú del Comedor
-UID:7cc166fc-4e97-4a4e-8430-8ea1393e3ed9@7cc1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sopa hortelana\r\nPollo al horno con patata\r\nEnsalada\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl: 831\,71\nHC: 102\,66\nProt: 35\,42\nLip: 28\,09
-DTSTART:20231120T000000Z
-SUMMARY:Menú del Comedor
-UID:daad19ca-7f64-423b-b7ab-2451a9de1d11@daad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sopa hortelana\r\nPollo asado con champiñones\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl: 698\,38\nHC: 91\,40\nProt: 31\,43\nLip: 20\,45
-DTSTART:20231207T000000Z
-SUMMARY:Menú del Comedor
-UID:c52ec21f-15b7-4b3c-84c5-6115f6cc066a@c52e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Crema de verduras\r\nTortilla de patatas\r\nEnsalada\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl: 786\,36\nHC: 82\,54\nProt: 36\,35\nLip: 31\,82
-DTSTART:20231115T000000Z
-SUMMARY:Menú del Comedor
-UID:6f1177f4-fdfe-4e3c-9dae-1d3bf3e81365@6f11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n\nValor Nutricional: Kcl: 834\,60\nHC: 101\,65\nProt: 50\,05\nLip: 22\,28
-DTSTART:20231108T000000Z
-SUMMARY:Menú del Comedor
-UID:6b83b8b8-e3fa-473c-b7be-886005476970@6b83.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Sopa hortelana\r\nPechugas asadas con champiñones\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl: 834\,60\nHC: 101\,65\nProt: 50\,05\nLip: 22\,28
 DTSTART:20231109T000000Z
 SUMMARY:Menú del Comedor
-UID:ab3a7e7b-b73e-41af-9414-0d18f3828934@ab3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n\nValor Nutricional: Kcl: 834\,60\nHC: 101\,65\nProt: 50\,05\nLip: 22\,28
-DTSTART:20231106T000000Z
-SUMMARY:Menú del Comedor
-UID:1c319abe-0324-4402-bc4b-4152f68a6e1b@1c31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n\nValor Nutricional: Kcl: 834\,60\nHC: 101\,65\nProt: 50\,05\nLip: 22\,28
-DTSTART:20231107T000000Z
-SUMMARY:Menú del Comedor
-UID:7d0bdbed-0948-4f60-83c6-f9dae2ec129d@7d0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ensalada valenciana\r\nMacarrones a la boloñesa\r\nPan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl : 623\,89\nHC: 75\,58\nProt: 28\,47\nLip: 20\,25
-DTSTART:20231127T000000Z
-SUMMARY:Menú del Comedor
-UID:4a1cbc03-c1f1-44e0-bb2f-803a782ad5c5@4a1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Arroz a la cubana\r\nVaritas de pescado\r\nEnsalada\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl: 786\,36\nHC: 82\,54\nProt: 36\,35\nLip: 31\,82
-DTSTART:20231117T000000Z
-SUMMARY:Menú del Comedor
-UID:6e68ae0b-5c75-445f-9699-54f079f9df26@6e68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Crema de verdura\r\nTortilla de patatas\r\nEnsalada\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl : 623\,89\nHC: 75\,58\nProt: 28\,47\nLip: 20\,25
-DTSTART:20231129T000000Z
-SUMMARY:Menú del Comedor
-UID:aea00bd5-433f-4f87-a2dc-baf5ae30f587@aea0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sopa de estrellitas\r\nLomo a la plancha\r\nEnsalada\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl: 786\,36\nHC: 82\,54\nProt: 36\,35\nLip: 31\,82
-DTSTART:20231113T000000Z
-SUMMARY:Menú del Comedor
-UID:f5afdf00-c07b-491b-81bd-966982b4535a@f5af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Guiso de lentejas\r\nCroquetas de pescado\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl: 698\,38\nHC: 91\,40\nProt: 31\,43\nLip: 20\,45
-DTSTART:20231205T000000Z
-SUMMARY:Menú del Comedor
-UID:bb927f95-1827-4759-a5b4-ce04e3bcc1e8@bb92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Guiso de garbanzos\r\nLasaña\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl: 786\,36\nHC: 82\,54\nProt: 36\,35\nLip: 31\,82
-DTSTART:20231116T000000Z
-SUMMARY:Menú del Comedor
-UID:0b3a6f5d-4ce7-4fd6-a809-28c450f79f89@0b3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Macarrones con tomate\, queso y atún opcional\r\nFilete de merluza\r\nEnsalada\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl: 831\,71\nHC: 102\,66\nProt: 35\,42\nLip: 28\,09
-DTSTART:20231124T000000Z
-SUMMARY:Menú del Comedor
-UID:ef36dfdf-e140-4ac2-8cfd-c5080bc3a7a9@ef36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Paella valenciana\r\nEnsalada mediterránea\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl: 698\,38\nHC: 91\,40\nProt: 31\,43\nLip: 20\,45
-DTSTART:20231206T000000Z
-SUMMARY:Menú del Comedor
-UID:80fb95a6-8863-448a-b2c3-5a87055131e5@80fb.org
+UID:f4842f02-0f19-4e78-8d66-9f3b4aa6f64e@f484.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Tallarines con tomate y queso opcional\r\nFilete de merluza al horno\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl: 834\,60\nHC: 101\,65\nProt: 50\,05\nLip: 22\,28
 DTSTART:20231110T000000Z
 SUMMARY:Menú del Comedor
-UID:fd691a12-d47a-48df-b4fc-35a32d1eff62@fd69.org
+UID:818c3f6c-8a32-445e-98e4-e98a6196adcf@818c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Crema de verduras\r\nAlbóndigas en salsa\r\nEnsalada\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl: 831\,71\nHC: 102\,66\nProt: 35\,42\nLip: 28\,09
-DTSTART:20231122T000000Z
+DESCRIPTION:Sopa hortelana\r\nPollo asado con champiñones\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl: 698\,38\nHC: 91\,40\nProt: 31\,43\nLip: 20\,45
+DTSTART:20231207T000000Z
 SUMMARY:Menú del Comedor
-UID:03591fca-ad2e-4c73-8f02-ff912fde55e6@0359.org
+UID:a77cd695-0de0-45d6-8642-2028d36e9566@a77c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Guiso de lentejas\r\nRabas de calamar\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl: 831\,71\nHC: 102\,66\nProt: 35\,42\nLip: 28\,09
-DTSTART:20231121T000000Z
+DESCRIPTION:Crema de verdura\r\nLonganizas asadas con patatas fritas\r\nEnsalada\, pan y Fruta del tiempo\n\nValor Nutricional: Kcl: 698\,38\nHC: 91\,40\nProt: 31\,43\nLip: 20\,45
+DTSTART:20231204T000000Z
 SUMMARY:Menú del Comedor
-UID:6797e9b7-d5df-42a7-ab74-1c36738e8438@6797.org
+UID:af6ab334-a8a3-4007-ac20-d06a631bdbdf@af6a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Espaguetis a la carbonara\r\nCroquetas de pescado\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl: 786\,36\nHC: 82\,54\nProt: 36\,35\nLip: 31\,82
 DTSTART:20231114T000000Z
 SUMMARY:Menú del Comedor
-UID:93c46540-18a6-4eaa-b336-0f6afcec8b41@93c4.org
+UID:192f0f45-089d-4d0b-b6e9-c115b55d1a60@192f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sopa hortelana\r\nPollo al horno con patata\r\nEnsalada\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl: 831\,71\nHC: 102\,66\nProt: 35\,42\nLip: 28\,09
+DTSTART:20231120T000000Z
+SUMMARY:Menú del Comedor
+UID:8d4dfcfc-efc4-493a-a7ee-fc659a846f93@8d4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n\nValor Nutricional: Kcl: 834\,60\nHC: 101\,65\nProt: 50\,05\nLip: 22\,28
+DTSTART:20231108T000000Z
+SUMMARY:Menú del Comedor
+UID:eb635d44-5783-492b-a046-959603fc51bc@eb63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Crema de verduras\r\nAlbóndigas en salsa\r\nEnsalada\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl: 831\,71\nHC: 102\,66\nProt: 35\,42\nLip: 28\,09
+DTSTART:20231122T000000Z
+SUMMARY:Menú del Comedor
+UID:5c558649-c317-4d91-a0a2-46e2134ddc86@5c55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Arroz al horno\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl : 623\,89\nHC: 75\,58\nProt: 28\,47\nLip: 20\,25
+DTSTART:20231130T000000Z
+SUMMARY:Menú del Comedor
+UID:39f64782-d656-48de-bc2d-e63fb9900d04@39f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Arroz a la cubana\r\nVaritas de pescado\r\nEnsalada\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl: 786\,36\nHC: 82\,54\nProt: 36\,35\nLip: 31\,82
+DTSTART:20231117T000000Z
+SUMMARY:Menú del Comedor
+UID:f3388770-af84-4768-8ca9-b05a6bb2624e@f338.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Crema de verduras\r\nTortilla de patatas\r\nEnsalada\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl: 786\,36\nHC: 82\,54\nProt: 36\,35\nLip: 31\,82
+DTSTART:20231115T000000Z
+SUMMARY:Menú del Comedor
+UID:0f40332b-b3be-4a02-b272-b52f38a802bb@0f40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Guiso de garbanzos\r\nLasaña\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl: 786\,36\nHC: 82\,54\nProt: 36\,35\nLip: 31\,82
+DTSTART:20231116T000000Z
+SUMMARY:Menú del Comedor
+UID:e4b74e93-6def-4077-b679-2a5f77ab566f@e4b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Guiso de lentejas\r\nCroquetas de pescado\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl: 698\,38\nHC: 91\,40\nProt: 31\,43\nLip: 20\,45
+DTSTART:20231205T000000Z
+SUMMARY:Menú del Comedor
+UID:d1ca08c7-c551-47bc-ac5a-b3041140996c@d1ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n\nValor Nutricional: Kcl: 834\,60\nHC: 101\,65\nProt: 50\,05\nLip: 22\,28
+DTSTART:20231106T000000Z
+SUMMARY:Menú del Comedor
+UID:691d80f2-5976-4711-b9e5-13435525379f@691d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Crema de verdura\r\nTortilla de patatas\r\nEnsalada\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl : 623\,89\nHC: 75\,58\nProt: 28\,47\nLip: 20\,25
+DTSTART:20231129T000000Z
+SUMMARY:Menú del Comedor
+UID:83703613-e1b2-4e6e-93b7-65a4041664f0@8370.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sopa hortelana\r\nVaritas de pescado\r\nEnsalada\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl : 623\,89\nHC: 75\,58\nProt: 28\,47\nLip: 20\,25
 DTSTART:20231201T000000Z
 SUMMARY:Menú del Comedor
-UID:621b8314-a91f-41b2-b148-3c937564f8e8@621b.org
+UID:05542e4b-50fb-44b8-8c5b-44c8ad6b2077@0554.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada valenciana\r\nMacarrones a la boloñesa\r\nPan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl : 623\,89\nHC: 75\,58\nProt: 28\,47\nLip: 20\,25
+DTSTART:20231127T000000Z
+SUMMARY:Menú del Comedor
+UID:2fc54f91-008c-4f1b-b2d9-afb087f0e1ce@2fc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sopa de estrellitas\r\nLomo a la plancha\r\nEnsalada\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl: 786\,36\nHC: 82\,54\nProt: 36\,35\nLip: 31\,82
+DTSTART:20231113T000000Z
+SUMMARY:Menú del Comedor
+UID:6c768c03-441f-48e3-99b8-b141c33ca8f5@6c76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sopa hortelana\r\nTortilla de patatas\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl: 831\,71\nHC: 102\,66\nProt: 35\,42\nLip: 28\,09
+DTSTART:20231123T000000Z
+SUMMARY:Menú del Comedor
+UID:76f32202-e3b8-4ca4-b234-f356cabc9f0f@76f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Guiso de alubias\r\nCalamares a la romana\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl : 623\,89\nHC: 75\,58\nProt: 28\,47\nLip: 20\,25
+DTSTART:20231128T000000Z
+SUMMARY:Menú del Comedor
+UID:39906c33-c7c5-45bb-a12e-7041742af7fb@3990.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n\nValor Nutricional: Kcl: 698\,38\nHC: 91\,40\nProt: 31\,43\nLip: 20\,45
+DTSTART:20231208T000000Z
+SUMMARY:Menú del Comedor
+UID:fb8d63d5-39fb-47b9-99b1-ef50d78d3194@fb8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Paella valenciana\r\nEnsalada mediterránea\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl: 698\,38\nHC: 91\,40\nProt: 31\,43\nLip: 20\,45
+DTSTART:20231206T000000Z
+SUMMARY:Menú del Comedor
+UID:bfba66f2-785b-4cf2-9d10-95614758c109@bfba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Guiso de lentejas\r\nRabas de calamar\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl: 831\,71\nHC: 102\,66\nProt: 35\,42\nLip: 28\,09
+DTSTART:20231121T000000Z
+SUMMARY:Menú del Comedor
+UID:08290d45-aaf6-4537-8978-88a1c923fc64@0829.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Macarrones con tomate\, queso y atún opcional\r\nFilete de merluza\r\nEnsalada\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl: 831\,71\nHC: 102\,66\nProt: 35\,42\nLip: 28\,09
+DTSTART:20231124T000000Z
+SUMMARY:Menú del Comedor
+UID:fea96c4d-1013-43c6-97ee-62d42521696c@fea9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n\nValor Nutricional: Kcl: 834\,60\nHC: 101\,65\nProt: 50\,05\nLip: 22\,28
+DTSTART:20231107T000000Z
+SUMMARY:Menú del Comedor
+UID:f917298e-9a14-4a3a-9ce5-75149e06c8b8@f917.org
 END:VEVENT
 END:VCALENDAR
