@@ -19,7 +19,8 @@
   <title>Menú del Comedor ICM</title>
   <meta name="description" content="Calendario del Menú del Comedor ICM.">
   <meta name="keywords" content="calendario, ICM, colegio, nutrición">
-  <meta property="og:image" content="https://raw.githubusercontent.com/Wakkos/ICM-Comedor/main/logo-calendario-og-icm.png">
+  <meta property="og:image"
+    content="https://raw.githubusercontent.com/Wakkos/ICM-Comedor/main/logo-calendario-og-icm.png">
   <meta property="og:url" content="https://github.com/Wakkos">
   <!-- optionally add more Open Graph metadata: http://ogp.me/#metadata -->
 
@@ -34,7 +35,8 @@
 
     <h1 class="title">
       <?xml version="1.0" encoding="utf-8" ?>
-      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512"
+        viewBox="0 0 512 512">
         <path fill="#fff" transform="scale(0.666667 0.666667)" d="M-0 -0L768 0L768 768L-0 768L0 -0Z" />
         <path fill="#3C6ADA" transform="scale(0.666667 0.666667)"
           d="M718.108 472.923C719.768 464.467 723.229 455.08 730.666 450.006C733.976 447.747 737.856 446.612 741.824 447.406C745.182 448.078 748.161 450.466 749.97 453.317C754.562 460.554 754.918 470.371 752.881 478.507C750.498 488.023 743.425 495.799 735.101 500.693C733.454 501.661 731.808 502.41 729.991 503.005C726.942 502.865 723.341 502.798 720.692 501.195L718.866 499.821C718.447 498.044 717.613 496.416 717.151 494.645C715.924 489.935 716.188 485.144 716.921 480.375C717.295 477.942 718.226 475.36 718.108 472.923Z" />
@@ -330,55 +332,87 @@
 
       Menú del Comedor ICM
     </h1>
-    <p><b>Calendario del Menú del Comedor ICM</b>. Este proyecto tiene como objetivo proporcionar a las madres, padres y tutores en general un calendario actualizado con el menú del comedor escolar, permitiendo una fácil integración con las aplicaciones de calendario más populares.</p>
-    <p><small><b>Nota:</b> Si prefieres una versión Web y no añadir a tu calendario los eventos puedes usar el <a href="calendar.html">draft inicial del calendario online</a>. No sé si seguiré mejorándolo - esto lo hice entre ratos muertos - pero aún resulta mejor que el que existe actualmente y, sí, también se actualiza.</small></p>
+    <p><b>Calendario del Menú del Comedor ICM</b>. Este proyecto tiene como objetivo proporcionar a las madres, padres y
+      tutores en general un calendario actualizado con el menú del comedor escolar, permitiendo una fácil integración
+      con las aplicaciones de calendario más populares.</p>
+    <p><small><b>Nota:</b> Si prefieres una versión Web y no añadir a tu calendario los eventos puedes usar el <a
+          href="calendar.html">draft inicial del calendario online</a>. No sé si seguiré mejorándolo - esto lo hice
+        entre ratos muertos - pero aún resulta mejor que el que existe actualmente y, sí, también se actualiza.</small>
+    </p>
   </header>
 
   <main id="content" role="main" tabindex="-1">
     <h2>Instrucciones</h2>
     <h3>¿Cómo añadir el calendario a su dispositivo?</h3>
-    <section>
-      <h4>En Ordenadores / Computadoras</h4>
-      <ol>
-        <li>Haga clic <a href="menu_calendario.ics" download="ICMCalendar" onclick="gtag('event', 'click', { 'event_category' : 'Links al calendario', 'event_label' : 'ICS en desktop' });">aquí</a> para
-          descargar el archivo <code>.ics</code>.</li>
-        <li>Una vez descargado, haga doble clic sobre el archivo.</li>
-        <li>Se abrirá automáticamente con su aplicación de calendario predeterminada (como Outlook, iCal, etc.).</li>
-        <li>Sigue las instrucciones en pantalla para agregar el calendario.</li>
-      </ol>
-    </section>
-    <section>
-      <h4>En iPhone/iPad:</h4>
-      <ol>
-        <li>Haga clic <a href="menu_calendario.ics" onclick="gtag('event', 'click', { 'event_category' : 'Links al calendario', 'event_label' : 'ICS en iPhone/Ipad' });">aquí</a> desde su
-          dispositivo.</li>
-        <li>Se le preguntará si desea agregar el calendario, dí que sí o selecciona "Añadir".</li>
-        <li>Ve o abre la aplicación "Calendario" en su dispositivo y deberías ver cada día a las 14h un evento con la
-          comida del ICM de ese día y su valoor nutricional en las notas.</li>
-      </ol>
-    </section>
-    <section>
-      <h4>En Android:</h4>
-      <ol>
-        <li>Haga clic <a href="menu_calendario.ics" download="ICMCalendar" onclick="gtag('event', 'click', { 'event_category' : 'Links al calendario', 'event_label' : 'ICS en Android' });">aquí</a>. <p><small>El navegador que debe descargar el calendario en lugar de navegar hacia él y mostrar su contenido. Sin embargo, este comportamiento puede variar según el navegador y el sistema operativo. Por ejemplo, algunos navegadores en Android no respetan el atributo download y, en su lugar, optan por mostrar el archivo. En ese caso, haz una pulsación larga (o clic derecho en el caso de escritorio) y seleccionar "Guardar enlace como" o "Descargar archivo
-        vinculado" (los términos exactos pueden variar según el navegador) para descargar el archivo.</small></p></li>
-        <li>El archivo se descargará en tu dispositivo.</li>
-        <li>Abre la aplicación "Calendario" o "Agenda"</li>
-        <li>Busca una opción en el menú (usualmente representada por tres puntos verticales) que diga "Importar" o
-          "Añadir Calendario".</li>
-        <li>Selecciona el archivo `.ics` descargado y sigue las instrucciones.</li>
-      </ol>
-    </section>
+    <div class="platform-cards">
+      <div class="platform-card">
+        <h3>iPhone / iPad</h3>
+        <p>Añade el calendario directamente a tu app Calendario de iOS</p>
+        <div class="button-group">
+          <a href="webcal://raw.githubusercontent.com/Wakkos/ICM-Comedor/main/menu_calendario.ics"
+            class="button primary" onclick="gtag('event', 'subscribe', {'platform': 'ios'})">Suscribirse al
+            calendario</a>
+          <a href="menu_calendario.ics" download="ICM-Menu-iOS.ics" class="button secondary"
+            onclick="gtag('event', 'download', {'platform': 'ios'})">Descargar calendario</a>
+        </div>
+      </div>
+
+      <div class="platform-card">
+        <h3>Google Calendar</h3>
+        <p>Añade el calendario a tu cuenta de Google</p>
+        <a href="https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/Wakkos/ICM-Comedor/main/menu_calendario.ics"
+          class="button primary" onclick="gtag('event', 'subscribe', {'platform': 'google'})">Añadir a Google
+          Calendar</a>
+      </div>
+
+      <div class="platform-card">
+        <h3>Outlook</h3>
+        <p>Importa el calendario en Microsoft Outlook</p>
+        <div class="button-group">
+          <a href="webcal://raw.githubusercontent.com/Wakkos/ICM-Comedor/main/menu_calendario.ics"
+            class="button primary" onclick="gtag('event', 'subscribe', {'platform': 'outlook'})">Suscribirse a
+            Outlook</a>
+          <a href="menu_calendario.ics" download="ICM-Menu-Outlook.ics" class="button secondary"
+            onclick="gtag('event', 'download', {'platform': 'outlook'})">Descargar para Outlook</a>
+        </div>
+      </div>
+
+      <div class="platform-card">
+        <h3>Android</h3>
+        <p>Añade el calendario a tu dispositivo Android</p>
+        <div class="button-group">
+          <a href="content://downloads/menu_calendario.ics" class="button primary"
+            onclick="gtag('event', 'download', {'platform': 'android'})">Descargar para Android</a>
+          <details>
+            <summary>Ver instrucciones</summary>
+            <ol>
+              <li>Descarga el archivo</li>
+              <li>Abre la app Calendario de Google</li>
+              <li>Ve a Ajustes > Importar calendario</li>
+              <li>Selecciona el archivo descargado</li>
+            </ol>
+          </details>
+        </div>
+      </div>
+
+      <div class="platform-card">
+        <h3>Otros calendarios</h3>
+        <p>Descarga el archivo .ics para importarlo en cualquier otra aplicación</p>
+        <a href="menu_calendario.ics" download="ICM-Menu.ics" class="button secondary"
+          onclick="gtag('event', 'download', {'platform': 'other'})">Descargar archivo .ics</a>
+      </div>
+    </div>
   </main>
 
   <footer role="contentinfo" class="site-footer">
-    <p>Las sugerencias o errores los podéis reportar en las <a href="https://github.com/Wakkos/ICM-Comedor/issues" target="_BLANK">Issues</a> de Github</p>
-    <p>Si te has suscrito al calendario, cada vez que este se actualice, verás automáticamente los cambios en tu dispositivo.</p>
-    <p><small>&copy; <a href="https://github.com/Wakkos">Daniel Martínez</a> - <a href="https://twitter.com/Wakkos">Wakkos</a> - 2024</small></p>
+    <p>Las sugerencias o errores los podéis reportar en las <a href="https://github.com/Wakkos/ICM-Comedor/issues"
+        target="_BLANK">Issues</a> de Github</p>
+    <p>Si te has suscrito al calendario, cada vez que este se actualice, verás automáticamente los cambios en tu
+      dispositivo.</p>
+    <p><small>&copy; <a href="https://github.com/Wakkos">Daniel Martínez</a> - <a
+          href="https://twitter.com/Wakkos">Wakkos</a> - 2024</small></p>
 
   </footer>
-
-  <!-- Include scripts here. Concatenate & minify for performance: https://developers.google.com/speed/docs/insights/MinifyResources -->
 </body>
 
 </html>
