@@ -1,7 +1,7 @@
 import requests
 import json
 from bs4 import BeautifulSoup
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, time
 from ics import Calendar, Event
 from jinja2 import Environment, FileSystemLoader
 import logging
@@ -75,7 +75,6 @@ try:
         # Para cada día en el rango
         for dia in range(dia_inicio, dia_fin + 1):
             fecha = fecha_inicio.replace(day=dia)
-
             # Solo procesar días laborables
             if fecha.weekday() < 5:  # 0-4 son Lunes a Viernes
                 if menu_index < len(menus):
@@ -84,6 +83,8 @@ try:
 
                     e = Event()
                     e.name = "Menú del Comedor"
+                    # Crear fecha con hora específica (13:00)
+                    fecha = datetime.combine(fecha.date(), time(13, 0))
                     e.begin = fecha
                     e.description = menu_texto
                     cal.events.add(e)
