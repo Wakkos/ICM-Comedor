@@ -1,154 +1,130 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:Paella valenciana\r\nEnsalada mediterránea\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl: 698\,38\nHC: 91\,40\nProt: 31\,43\nLip: 20\,45
-DTSTART:20231206T000000Z
-SUMMARY:Menú del Comedor
-UID:fc10c832-6fd2-4f05-ab6b-9402e8b7bae5@fc10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Crema de verdura\r\nLonganizas asadas con patatas fritas\r\nEnsalada\, pan y Fruta del tiempo\n\nValor Nutricional: Kcl: 698\,38\nHC: 91\,40\nProt: 31\,43\nLip: 20\,45
-DTSTART:20231204T000000Z
-SUMMARY:Menú del Comedor
-UID:4c8a4f40-5bd8-425d-88f3-607d117a018a@4c8a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Crema de verduras\r\nAlbóndigas en salsa\r\nEnsalada\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl: 831\,71\nHC: 102\,66\nProt: 35\,42\nLip: 28\,09
-DTSTART:20231122T000000Z
-SUMMARY:Menú del Comedor
-UID:82f76bf5-67c1-4713-a55e-6ac62b1067c7@82f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sopa hortelana\r\nPechugas asadas con champiñones\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl: 834\,60\nHC: 101\,65\nProt: 50\,05\nLip: 22\,28
-DTSTART:20231109T000000Z
-SUMMARY:Menú del Comedor
-UID:e2b4ff41-6e68-42c2-ae0e-84c4e1189ab5@e2b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n\nValor Nutricional: Kcl: 834\,60\nHC: 101\,65\nProt: 50\,05\nLip: 22\,28
-DTSTART:20231108T000000Z
-SUMMARY:Menú del Comedor
-UID:38df7611-b3b1-4d75-8eb8-dee4a7020165@38df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Tallarines con tomate y queso opcional\r\nFilete de merluza al horno\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl: 834\,60\nHC: 101\,65\nProt: 50\,05\nLip: 22\,28
-DTSTART:20231110T000000Z
-SUMMARY:Menú del Comedor
-UID:f6234ca0-88cb-4fb1-8f3a-5ee6330e8a9b@f623.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sopa hortelana\r\nPollo asado con champiñones\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl: 698\,38\nHC: 91\,40\nProt: 31\,43\nLip: 20\,45
-DTSTART:20231207T000000Z
-SUMMARY:Menú del Comedor
-UID:d9d4cff0-aabd-4430-94fe-41a2e00d99d5@d9d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Espaguetis a la carbonara\r\nCroquetas de pescado\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl: 786\,36\nHC: 82\,54\nProt: 36\,35\nLip: 31\,82
-DTSTART:20231114T000000Z
-SUMMARY:Menú del Comedor
-UID:31d5e9e8-933c-49bc-a89c-1bd191fab434@31d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Guiso de garbanzos\r\nLasaña\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl: 786\,36\nHC: 82\,54\nProt: 36\,35\nLip: 31\,82
-DTSTART:20231116T000000Z
-SUMMARY:Menú del Comedor
-UID:280aeeaf-d1ca-4c74-adaf-befa40dfbc20@280a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Macarrones con tomate\, queso y atún opcional\r\nFilete de merluza\r\nEnsalada\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl: 831\,71\nHC: 102\,66\nProt: 35\,42\nLip: 28\,09
-DTSTART:20231124T000000Z
-SUMMARY:Menú del Comedor
-UID:1d6ef2c2-450e-4afe-89bc-24419f44a6f0@1d6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Guiso de lentejas\r\nRabas de calamar\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl: 831\,71\nHC: 102\,66\nProt: 35\,42\nLip: 28\,09
-DTSTART:20231121T000000Z
-SUMMARY:Menú del Comedor
-UID:dea98f95-b0cb-460e-a3e7-db71807194fe@dea9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Arroz al horno\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl : 623\,89\nHC: 75\,58\nProt: 28\,47\nLip: 20\,25
-DTSTART:20231130T000000Z
-SUMMARY:Menú del Comedor
-UID:b89f6721-8b3a-4255-a2d7-ddcf7f5545ca@b89f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n\nValor Nutricional: Kcl: 834\,60\nHC: 101\,65\nProt: 50\,05\nLip: 22\,28
-DTSTART:20231106T000000Z
-SUMMARY:Menú del Comedor
-UID:1405ea18-a5ea-461c-8c96-5d383755d832@1405.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ensalada valenciana\r\nMacarrones a la boloñesa\r\nPan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl : 623\,89\nHC: 75\,58\nProt: 28\,47\nLip: 20\,25
-DTSTART:20231127T000000Z
-SUMMARY:Menú del Comedor
-UID:26bcb00c-b09f-43f0-9627-761b862e73f3@26bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sopa de estrellitas\r\nLomo a la plancha\r\nEnsalada\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl: 786\,36\nHC: 82\,54\nProt: 36\,35\nLip: 31\,82
-DTSTART:20231113T000000Z
-SUMMARY:Menú del Comedor
-UID:08674c7e-399c-4829-92e1-6d597e4947ca@0867.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n\nValor Nutricional: Kcl: 834\,60\nHC: 101\,65\nProt: 50\,05\nLip: 22\,28
-DTSTART:20231107T000000Z
-SUMMARY:Menú del Comedor
-UID:584766de-f40c-4006-9c87-1c9b17b3e8c7@5847.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n\nValor Nutricional: Kcl: 698\,38\nHC: 91\,40\nProt: 31\,43\nLip: 20\,45
-DTSTART:20231208T000000Z
-SUMMARY:Menú del Comedor
-UID:897d5098-a935-4cd7-a531-24f1758473ef@897d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sopa hortelana\r\nPollo al horno con patata\r\nEnsalada\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl: 831\,71\nHC: 102\,66\nProt: 35\,42\nLip: 28\,09
-DTSTART:20231120T000000Z
-SUMMARY:Menú del Comedor
-UID:90bc0be0-6ce2-4b4c-891e-6f69ffc6310f@90bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Crema de verdura\r\nTortilla de patatas\r\nEnsalada\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl : 623\,89\nHC: 75\,58\nProt: 28\,47\nLip: 20\,25
-DTSTART:20231129T000000Z
-SUMMARY:Menú del Comedor
-UID:dc347bb8-b7b3-40ac-b93c-63f30b1cc531@dc34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Crema de verduras\r\nTortilla de patatas\r\nEnsalada\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl: 786\,36\nHC: 82\,54\nProt: 36\,35\nLip: 31\,82
-DTSTART:20231115T000000Z
-SUMMARY:Menú del Comedor
-UID:079e91e7-43d8-4ffd-acff-ee2a6ca33fca@079e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sopa hortelana\r\nTortilla de patatas\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl: 831\,71\nHC: 102\,66\nProt: 35\,42\nLip: 28\,09
-DTSTART:20231123T000000Z
-SUMMARY:Menú del Comedor
-UID:4e3052ab-ef83-4ad9-b688-0c7e4da0d5e7@4e30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Guiso de alubias\r\nCalamares a la romana\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl : 623\,89\nHC: 75\,58\nProt: 28\,47\nLip: 20\,25
-DTSTART:20231128T000000Z
-SUMMARY:Menú del Comedor
-UID:38ee1683-4b2d-46b3-b3ab-105bf6a008fb@38ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sopa hortelana\r\nVaritas de pescado\r\nEnsalada\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl : 623\,89\nHC: 75\,58\nProt: 28\,47\nLip: 20\,25
-DTSTART:20231201T000000Z
-SUMMARY:Menú del Comedor
-UID:14400d08-3f46-4c58-a0c0-3166251c9b5b@1440.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Arroz a la cubana\r\nVaritas de pescado\r\nEnsalada\, pan y\r\nFruta del tiempo\n\nValor Nutricional: Kcl: 786\,36\nHC: 82\,54\nProt: 36\,35\nLip: 31\,82
-DTSTART:20231117T000000Z
-SUMMARY:Menú del Comedor
-UID:3c0a23b1-db8c-4fd1-a043-db746663ceac@3c0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Guiso de lentejas\r\nCroquetas de pescado\r\nEnsalada\, pan y\r\nFruta del tiempo o Yogur\n\nValor Nutricional: Kcl: 698\,38\nHC: 91\,40\nProt: 31\,43\nLip: 20\,45
-DTSTART:20231205T000000Z
-SUMMARY:Menú del Comedor
-UID:301890cf-4a90-404f-81f2-8c20194a05fc@3018.org
-END:VEVENT
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Crema de verduras de temporada\r\nTortilla de patatas al horno con judías verdes con tomate\r\nPan\, Yogur natural y fruta del tiempo
+DTSTART:20241113T000000Z
+SUMMARY:Menú del Comedor
+UID:cdb44f96-9100-4e85-9256-a1723d5f54f5@cdb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nEstofado de patatas con champiñones y guisantes\r\nTortilla francesa con calabacín y queso\r\nPan y fruta de temporada
+DTSTART:20241119T000000Z
+SUMMARY:Menú del Comedor
+UID:2766c548-a3d8-49f3-98d6-647cf40009c0@2766.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Coliflor gratinada con bechamel\r\nMarmitako\r\npan y fruta de temporada
+DTSTART:20241127T000000Z
+SUMMARY:Menú del Comedor
+UID:2e147ead-0aa9-4cd7-b63e-e386d3449629@2e14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nMacarrones con salsa carbonara\r\nCaballa a la plancha con tomate\r\nPan y fruta de temporada
+DTSTART:20241111T000000Z
+SUMMARY:Menú del Comedor
+UID:4a7d3784-e182-4888-91dc-41e43a4a97fb@4a7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nEspaguetis integrales con salsa boloñesa\r\nMerluza empanada casera al horno\r\nPan integral y fruta de temporada
+DTSTART:20241108T000000Z
+SUMMARY:Menú del Comedor
+UID:70a14729-2332-49cf-a3ec-8e873b580e58@70a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nCrema de garbanzos con verduras de temporada\r\nEstofado de tacos de pavo con salsa de zanahoria\r\nPan y fruta de temporada
+DTSTART:20241121T000000Z
+SUMMARY:Menú del Comedor
+UID:4775f829-61fb-46b8-ba1e-6fb9fe9bfe38@4775.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nMacarrones integrales con salsa de tomate y queso\r\nAlbóndigas\r\nPan\, yogur natural y fruta de temporada
+DTSTART:20241128T000000Z
+SUMMARY:Menú del Comedor
+UID:f25fa9cc-4660-4718-afcb-cde22fc9d048@f25f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nEstofado de lentejas con verduras de temporada\r\nTilapia en salsa de champiñones y zanahoria\r\nPan y yogur natural
+DTSTART:20241105T000000Z
+SUMMARY:Menú del Comedor
+UID:5df06721-1223-4075-8af2-bf96c4a0c0ae@5df0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nCrema de alubias blancas con verdura\r\nLonganizas de pollo con pisto\r\nPan y fruta de temporada
+DTSTART:20241126T000000Z
+SUMMARY:Menú del Comedor
+UID:514205ea-5f17-4a1a-9169-3cbb47d1a256@5142.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nSopa hortelana con bolitas y verdura de temporada\r\nTortilla de patatas al horno con pisto\r\nPan y fruta del tiempo
+DTSTART:20241106T000000Z
+SUMMARY:Menú del Comedor
+UID:4c7bac75-097e-42d4-831e-e99bc1620929@4c7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nEstofado de garbanzos con verduras\r\nNuggets caseros de merluza\r\nPan integral y fruta de temporada
+DTSTART:20241129T000000Z
+SUMMARY:Menú del Comedor
+UID:2c7716f9-2ae0-4ff9-aba8-d28f37592277@2c77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nPaella\r\nPan y fruta de temporada
+DTSTART:20241120T000000Z
+SUMMARY:Menú del Comedor
+UID:b2b77dfb-68c8-4f0c-a1c2-26418a341ed4@b2b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Todos los Santos.
+DTSTART:20241101T000000Z
+SUMMARY:Menú del Comedor
+UID:6969cdbb-a1e8-4060-961b-78ba5d090cb3@6969.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nSopa de pollo con fideos\r\nCocido completo\r\nPan y fruta de temporada
+DTSTART:20241112T000000Z
+SUMMARY:Menú del Comedor
+UID:020ea576-8e1e-4a03-a720-f3b0bd7d5228@020e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nArroz con tomate\r\nTortilla francesa\r\nPan y fruta de temporada
+DTSTART:20241125T000000Z
+SUMMARY:Menú del Comedor
+UID:9ea48005-9d62-4cd9-9700-2304c113ead6@9ea4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nLentejas estofadas con verduras\r\nTilapia en salsa de champiñones y zanahoria\r\nPan integral y fruta de temporada
+DTSTART:20241122T000000Z
+SUMMARY:Menú del Comedor
+UID:effef1d5-d048-455c-880d-e35778f8cd8c@effe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nGuiso de garbanzos con espinacas\r\nMuslo de pollo asado a las finas hierbas\r\nPan y fruta de temporada
+DTSTART:20241107T000000Z
+SUMMARY:Menú del Comedor
+UID:b1eb67b6-6b8d-43c2-b5cd-90d7e9639934@b1eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nEstofado de alubias blancas con cebolla\, zanahora y calabaza\r\nHamburguesa de pavo\r\nPan y fruta de temporada
+DTSTART:20241114T000000Z
+SUMMARY:Menú del Comedor
+UID:2ab15cab-155c-4059-934e-48c26facef86@2ab1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nCrema de otoño: Zanahoria y calabaza\r\nPan y fruta de temporada
+DTSTART:20241104T000000Z
+SUMMARY:Menú del Comedor
+UID:0621cab4-925d-46f0-86c8-ccca5974e9de@0621.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nHervido valenciano\r\nMerluza al horno con salsa verde\r\nPan integral y fruta de temporada
+DTSTART:20241115T000000Z
+SUMMARY:Menú del Comedor
+UID:f0657723-a529-453b-a5de-e8900485226e@f065.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nFideuà\r\nPan y fruta de temporada
+DTSTART:20241118T000000Z
+SUMMARY:Menú del Comedor
+UID:3ff72820-1cc3-4996-9f27-19e7c504306b@3ff7.org
+END:VEVENT
 END:VCALENDAR
