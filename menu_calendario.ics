@@ -2,87 +2,87 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ensalada verde\r\nMacarrones con boloñesa y queso\r\nCroquetas de bacalao al horno\r\nPan y fruta
-DTSTART:20241209T130000Z
-SUMMARY:Menú del Comedor
-UID:ba2db8cc-4c7f-4ade-be7e-bcf85f07cb2b@ba2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ensalada verde\r\nArroz caldoso con verduras\r\nMerluza al horno con tomate\r\nPan y fruta
-DTSTART:20241218T130000Z
-SUMMARY:Menú del Comedor
-UID:a350280c-b006-42bd-8005-0730687ba935@a350.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ensalada verde\r\nArroz al horno\r\nPan\, yogur natural y fruta del tiempo.
-DTSTART:20241203T130000Z
-SUMMARY:Menú del Comedor
-UID:b4fe2067-9e4d-4808-b9c4-150e5f7bdd24@b4fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ensalada verde\r\nCrema de calabacín\r\nTortilla de patatas\r\nPan\, yogur y fruta
-DTSTART:20241217T130000Z
-SUMMARY:Menú del Comedor
-UID:1e438b9f-1e64-4a1b-bb20-e27218e58c21@1e43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ensalada verde\r\nArroz con salsa de tomate\r\nTortilla francesa\r\nPan y fruta
-DTSTART:20241210T130000Z
-SUMMARY:Menú del Comedor
-UID:812e08a6-b751-4c83-8f0e-d0691d8dd5c8@812e.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ensalada verde\r\nCrema de verduras\r\nHamburguesa de pollo con queso\r\nPan y fruta
 DTSTART:20241211T130000Z
 SUMMARY:Menú del Comedor
-UID:6c99a1f5-cc4e-4e31-8a5e-cc5360cb98a8@6c99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ensalada verde\r\nEstofado de lentejas\, calabaza y zanahoria\r\nTortilla francesa con jamón\r\nPan y fruta de temporada
-DTSTART:20241202T130000Z
-SUMMARY:Menú del Comedor
-UID:a75c6d1e-f657-4356-8c7a-17cc95c12e19@a75c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ensalada verde\r\nSopa de pollo con fideos\r\nMuslo de pollo al horno con guarnición de pisto\r\nPan y fruta
-DTSTART:20241205T130000Z
-SUMMARY:Menú del Comedor
-UID:cd7c7e55-4e6a-4b3a-b39b-3aad3661a5ac@cd7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ensalada verde\r\nGuiso de garbanzos con verduras\r\nAlbóndigas de pollo con pimientos\r\nPan integral y fruta
-DTSTART:20241219T130000Z
-SUMMARY:Menú del Comedor
-UID:e2c85ac4-15fb-4ab2-9d6c-3e520956a48c@e2c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ensalada verde\r\nPatatas guisadas con menestra\r\nTilapia acompañada con judías y tomate\r\nPan\, yogur y fruta
-DTSTART:20241212T130000Z
-SUMMARY:Menú del Comedor
-UID:19a8a36a-5de9-4c1c-a290-ec39f205266b@19a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ensalada verde\r\nSopa de cocido\r\nCocido completo\r\nPan y fruta
-DTSTART:20241216T130000Z
-SUMMARY:Menú del Comedor
-UID:49cc1a1d-b9b5-4acc-aa36-f1acd648b531@49cc.org
+UID:85fd14dd-3635-4001-8966-df218c776c76@85fd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ensalada verde\r\nEspaguetis carbonara\r\nTortilla con filete de caballa\r\nPan y fruta
 DTSTART:20241220T130000Z
 SUMMARY:Menú del Comedor
-UID:c8e2d397-1562-4bfa-ad51-50cb07d9bf44@c8e2.org
+UID:87b69bf2-910d-44e9-92d9-42cccbfafead@87b6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ensalada valenciana\r\nEstofado de garbanzos con espinacas\, zanahoria y dados de patata\r\nMerluza con tomate\r\nPan y fruta
 DTSTART:20241204T130000Z
 SUMMARY:Menú del Comedor
-UID:f98f74f0-8ae6-45bc-ab44-ef62f9a4c4f8@f98f.org
+UID:f2aa4587-3356-44dd-aa4a-9cc6ac1e6b66@f2aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nArroz con salsa de tomate\r\nTortilla francesa\r\nPan y fruta
+DTSTART:20241210T130000Z
+SUMMARY:Menú del Comedor
+UID:1ea2103a-afbd-4262-b37d-b5f4b7acda3b@1ea2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nArroz al horno\r\nPan\, yogur natural y fruta del tiempo.
+DTSTART:20241203T130000Z
+SUMMARY:Menú del Comedor
+UID:6e41bfc7-d275-4a28-8918-204b807d2038@6e41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nSopa de cocido\r\nCocido completo\r\nPan y fruta
+DTSTART:20241216T130000Z
+SUMMARY:Menú del Comedor
+UID:938a6f42-b74a-4d3f-81d0-eba8bc573b3f@938a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nGuiso de garbanzos con verduras\r\nAlbóndigas de pollo con pimientos\r\nPan integral y fruta
+DTSTART:20241219T130000Z
+SUMMARY:Menú del Comedor
+UID:b5c0ed79-6fd1-4b7a-b032-08d6773bf6d6@b5c0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ensalada valenciana\r\nEmpedrado de lentejas\r\nNuggets caseros de pollo\r\nPan integral y fruta
 DTSTART:20241213T130000Z
 SUMMARY:Menú del Comedor
-UID:aa4b7fc2-e751-4964-a6aa-774998898a0c@aa4b.org
+UID:9218dd8f-161b-4257-aa25-323210c3bf9f@9218.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nArroz caldoso con verduras\r\nMerluza al horno con tomate\r\nPan y fruta
+DTSTART:20241218T130000Z
+SUMMARY:Menú del Comedor
+UID:e2023ed1-6299-4627-bdf2-813c3d2cea86@e202.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nPatatas guisadas con menestra\r\nTilapia acompañada con judías y tomate\r\nPan\, yogur y fruta
+DTSTART:20241212T130000Z
+SUMMARY:Menú del Comedor
+UID:63542f4e-143e-4d94-aa5b-7a5ba4d3b23c@6354.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nEstofado de lentejas\, calabaza y zanahoria\r\nTortilla francesa con jamón\r\nPan y fruta de temporada
+DTSTART:20241202T130000Z
+SUMMARY:Menú del Comedor
+UID:326f6347-f059-4054-aee0-f2aaa766639c@326f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nMacarrones con boloñesa y queso\r\nCroquetas de bacalao al horno\r\nPan y fruta
+DTSTART:20241209T130000Z
+SUMMARY:Menú del Comedor
+UID:03962f5e-0939-41e6-a677-4795d88c4500@0396.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nSopa de pollo con fideos\r\nMuslo de pollo al horno con guarnición de pisto\r\nPan y fruta
+DTSTART:20241205T130000Z
+SUMMARY:Menú del Comedor
+UID:aa339835-5875-4cc9-a166-bb97c4103213@aa33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada verde\r\nCrema de calabacín\r\nTortilla de patatas\r\nPan\, yogur y fruta
+DTSTART:20241217T130000Z
+SUMMARY:Menú del Comedor
+UID:83eb458f-2438-4ba5-a978-b1a25f2904bb@83eb.org
 END:VEVENT
 END:VCALENDAR
