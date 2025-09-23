@@ -2,93 +2,93 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ensalada de pasta\r\nPescado al horno con base de patatas y verduras\r\nFruta
-DTSTART:20250915T130000Z
-SUMMARY:Menú del Comedor
-UID:446a9c74-1795-4846-a1ba-18d1223eb100@446a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sopa de pescado con fideos\r\nTacos de magro en salsa con verduras\r\nFruta
-DTSTART:20250918T130000Z
-SUMMARY:Menú del Comedor
-UID:010d99f4-d7e2-4634-aa4e-0a56341f8782@010d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ensalada con queso\r\nFideuá con pescado\r\nFruta
-DTSTART:20250925T130000Z
-SUMMARY:Menú del Comedor
-UID:78f1954a-ddcf-4c7e-a4ad-12bdd3aa724e@78f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ensalada templada de lentejas con verduras\r\nTortilla de patata con pimientos\r\nFruta
-DTSTART:20250911T130000Z
-SUMMARY:Menú del Comedor
-UID:05258553-1245-4925-8246-8ee8a6ec205b@0525.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Crema de calabacín\r\nMuslitos de pollo al horno con patatas asadas\r\nFruta
-DTSTART:20250908T130000Z
-SUMMARY:Menú del Comedor
-UID:abd79fbf-f057-4479-8760-5f3145117eef@abd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Crema de puerro y patata\r\nLomo de cerdo al horno con salsa de tomate\r\nFruta
-DTSTART:20250923T130000Z
-SUMMARY:Menú del Comedor
-UID:f1b7883f-adaf-4bb5-b643-01ebd949e512@f1b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pasta boloñesa\r\nEnsalada\r\nFruta
-DTSTART:20250909T130000Z
-SUMMARY:Menú del Comedor
-UID:b3487f53-5104-4a4b-b787-8fad68fbb766@b348.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ensalada completa\r\nPaella valenciana\r\nLácteo
-DTSTART:20250919T130000Z
-SUMMARY:Menú del Comedor
-UID:5e7edada-cdff-4bd2-a3c4-fd3d84f56b38@5e7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ensalada de legumbres\r\nTortilla de jamón york con tomate y zanahoria\r\nFruta
-DTSTART:20250916T130000Z
-SUMMARY:Menú del Comedor
-UID:7bc321d5-4a89-46f2-96d2-33bab58fbd72@7bc3.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Arroz a la cubana\r\nRabas de calamar con verduras variadas\r\nLácteo
 DTSTART:20250912T130000Z
 SUMMARY:Menú del Comedor
-UID:53212781-e365-4023-ba12-addd60b6e8fe@5321.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sopa de estrellas\r\nAlbóndigas en salsa con verduras con patatas dado\r\nLácteo
-DTSTART:20250926T130000Z
-SUMMARY:Menú del Comedor
-UID:ed43eb2e-16c5-4026-ad2f-d7e25c75d24e@ed43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pasta con jamón y tomate\r\nPescado a la romana casera con lechuga y maíz\r\nFruta
-DTSTART:20250924T130000Z
-SUMMARY:Menú del Comedor
-UID:0e1b54c8-8c8e-4ce5-8054-71ab2b2a0ba3@0e1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Puré de verduras de temporada\r\nPechuga de pollo al horno con pisto\r\nFruta
-DTSTART:20250917T130000Z
-SUMMARY:Menú del Comedor
-UID:e5c41411-208a-4004-9a44-0d8da1c19e79@e5c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ensalada templada de garbanzos con verduras\r\nTortilla de calabacín con ensalada\r\nFruta
-DTSTART:20250922T130000Z
-SUMMARY:Menú del Comedor
-UID:9f0f2192-12fa-4001-abfa-95ea3166818e@9f0f.org
+UID:becd15ea-9160-4c4d-920d-47454f8b28c1@becd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ensalada de patata\r\nEstofado de pavo en salsa con verduras\r\nFruta
 DTSTART:20250910T130000Z
 SUMMARY:Menú del Comedor
-UID:fca346ef-b88a-4f50-af24-4ec4b1e08904@fca3.org
+UID:29402fe4-2c9a-4b3f-b2fd-05646c8dab5e@2940.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Crema de calabacín\r\nMuslitos de pollo al horno con patatas asadas\r\nFruta
+DTSTART:20250908T130000Z
+SUMMARY:Menú del Comedor
+UID:2514924a-cd1a-42ac-ac56-5b05bfd671c5@2514.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada de pasta\r\nPescado al horno con base de patatas y verduras\r\nFruta
+DTSTART:20250915T130000Z
+SUMMARY:Menú del Comedor
+UID:e60f304c-f102-4bb9-983d-6df07cc90a38@e60f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sopa de pescado con fideos\r\nTacos de magro en salsa con verduras\r\nFruta
+DTSTART:20250918T130000Z
+SUMMARY:Menú del Comedor
+UID:2687b95b-9b85-40e9-9f89-44e0961484ff@2687.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada completa\r\nPaella valenciana\r\nLácteo
+DTSTART:20250919T130000Z
+SUMMARY:Menú del Comedor
+UID:125e4b0c-5566-4b09-8d1c-7a75829062da@125e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada templada de garbanzos con verduras\r\nTortilla de calabacín con ensalada\r\nFruta
+DTSTART:20250922T130000Z
+SUMMARY:Menú del Comedor
+UID:bc700e0f-b82a-432d-9119-0fab9a3bdab6@bc70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Puré de verduras de temporada\r\nPechuga de pollo al horno con pisto\r\nFruta
+DTSTART:20250917T130000Z
+SUMMARY:Menú del Comedor
+UID:a0d98117-3253-43df-93e0-1dd737557be5@a0d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sopa de estrellas\r\nAlbóndigas en salsa con verduras con patatas dado\r\nLácteo
+DTSTART:20250926T130000Z
+SUMMARY:Menú del Comedor
+UID:08029133-917b-4df6-acda-a81ff7920288@0802.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada de legumbres\r\nTortilla de jamón york con tomate y zanahoria\r\nFruta
+DTSTART:20250916T130000Z
+SUMMARY:Menú del Comedor
+UID:386caf27-128f-455e-b7b4-347592a1ab3c@386c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pasta boloñesa\r\nEnsalada\r\nFruta
+DTSTART:20250909T130000Z
+SUMMARY:Menú del Comedor
+UID:b46184db-52d0-48ee-8363-3a7c1ec1a47c@b461.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pasta con jamón y tomate\r\nPescado a la romana casera con lechuga y maíz\r\nFruta
+DTSTART:20250924T130000Z
+SUMMARY:Menú del Comedor
+UID:f18b9a9f-be7c-44dc-abdc-7292f02a6b82@f18b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Crema de puerro y patata\r\nLomo de cerdo al horno con salsa de tomate\r\nFruta
+DTSTART:20250923T130000Z
+SUMMARY:Menú del Comedor
+UID:e4303b6d-81b6-43a4-bb0a-0f6f8f0f9359@e430.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada templada de lentejas con verduras\r\nTortilla de patata con pimientos\r\nFruta
+DTSTART:20250911T130000Z
+SUMMARY:Menú del Comedor
+UID:693c28f8-faed-4eba-98cf-2ac51004c94c@693c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada con queso\r\nFideuá con pescado\r\nFruta
+DTSTART:20250925T130000Z
+SUMMARY:Menú del Comedor
+UID:46f75f55-32cb-40bf-9944-76a88298f397@46f7.org
 END:VEVENT
 END:VCALENDAR
