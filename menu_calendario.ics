@@ -2,87 +2,87 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:FESTIVO
-DTSTART:20251209T130000Z
-SUMMARY:Menú del Comedor
-UID:02bd7cb3-b8c8-4bfc-9195-c900aced2518@02bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ensalada completa\r\nArroz al horno\r\nFruta
-DTSTART:20251218T130000Z
-SUMMARY:Menú del Comedor
-UID:7cb98dbe-4a88-4633-9d51-f118931ccc5c@7cb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Crema de legumbres\r\nPavo al ajillo con verduras\r\nFruta
-DTSTART:20251203T130000Z
-SUMMARY:Menú del Comedor
-UID:934cb55e-257b-4791-a4af-ca51da07ca26@934c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Legumbres con calabaza y patata\r\nPechuga rebozada con pimientos\r\nFruta
-DTSTART:20251210T130000Z
-SUMMARY:Menú del Comedor
-UID:c51145aa-3d77-4044-90f4-59c304d9c5c2@c511.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lentejas con arroz y verduras\r\nTortilla de patatas con tomate\r\nFruta
-DTSTART:20251217T130000Z
-SUMMARY:Menú del Comedor
-UID:95d83413-b8f6-4dc9-a515-e53ebb826dbd@95d8.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Lentejas con jamón\r\nLonganizas de pollo con tomate\r\nFruta
 DTSTART:20251201T130000Z
 SUMMARY:Menú del Comedor
-UID:b83acbb3-6b40-4b7a-a81a-4447456d224a@b83a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Crema de calabacín\r\nRagout de pavo\r\nFruta
-DTSTART:20251215T130000Z
-SUMMARY:Menú del Comedor
-UID:e47ae0ee-3035-4df9-8e7b-f562b4701f08@e47a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pasta con tomate\, bacon y queso\r\nPescado en salsa de verduras\r\nFruta
-DTSTART:20251211T130000Z
-SUMMARY:Menú del Comedor
-UID:a2ee3e0f-8ce8-492f-9ab7-e9455ec24517@a2ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pasta con chorizo\r\nMerluza a la romana con tomate\r\nFruta
-DTSTART:20251202T130000Z
-SUMMARY:Menú del Comedor
-UID:45a95dca-ff19-4592-9483-bf3145a2f81a@45a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sopa de estrellas\r\nLomo de cerdo al horno con pisto\r\nFruta
-DTSTART:20251212T130000Z
-SUMMARY:Menú del Comedor
-UID:767248cb-2307-4939-a46f-795ff2b4836e@7672.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pasta con verduras\r\nPisto con caballa\r\nLácteo
-DTSTART:20251219T130000Z
-SUMMARY:Menú del Comedor
-UID:880459c9-bb41-4316-90ce-9fa0df8cbe14@8804.org
+UID:24f78f20-677f-4cfb-8feb-df06bb69db1e@24f7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Arroz a la cubana\r\nTortilla francesa con zanahoria\r\nFruta
 DTSTART:20251204T130000Z
 SUMMARY:Menú del Comedor
-UID:283527e4-948b-41a4-8c5b-ad8fd62b09f2@2835.org
+UID:3a7671f5-c618-4294-9a11-52dc76e00b1a@3a76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pasta con tomate\, bacon y queso\r\nPescado en salsa de verduras\r\nFruta
+DTSTART:20251211T130000Z
+SUMMARY:Menú del Comedor
+UID:a213c492-2ec0-4906-907c-e2b0ff17134b@a213.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lentejas con arroz y verduras\r\nTortilla de patatas con tomate\r\nFruta
+DTSTART:20251217T130000Z
+SUMMARY:Menú del Comedor
+UID:dec5e115-9641-463c-88b3-189287122c37@dec5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Crema de calabacín\r\nRagout de pavo\r\nFruta
+DTSTART:20251215T130000Z
+SUMMARY:Menú del Comedor
+UID:43b0f1c3-1881-46c9-b0e7-a0c9f82bbc8b@43b0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sopa de fideos\r\nCocido completo\r\nFruta
 DTSTART:20251216T130000Z
 SUMMARY:Menú del Comedor
-UID:cfe0ca75-f8f3-46a9-bb3c-bb79f7356ea8@cfe0.org
+UID:0e7f689c-7876-4801-8da3-d732b2ebc9a1@0e7f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sopa de lluvia\r\nPescado al horno con salsa verde\r\nLácteo
 DTSTART:20251205T130000Z
 SUMMARY:Menú del Comedor
-UID:e263d3bf-7352-41d4-8298-9b7533cf9d63@e263.org
+UID:bcf905d8-bdc7-4091-93fe-e0a6df103d4a@bcf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Legumbres con calabaza y patata\r\nPechuga rebozada con pimientos\r\nFruta
+DTSTART:20251210T130000Z
+SUMMARY:Menú del Comedor
+UID:1cccdc6f-5abb-4c30-a8d8-9223fee282df@1ccc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:FESTIVO
+DTSTART:20251209T130000Z
+SUMMARY:Menú del Comedor
+UID:e7e90859-0297-46e4-831c-6844400eb72d@e7e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pasta con verduras\r\nPisto con caballa\r\nLácteo
+DTSTART:20251219T130000Z
+SUMMARY:Menú del Comedor
+UID:99113df2-f725-42cc-8261-c91b4c31e6f9@9911.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada completa\r\nArroz al horno\r\nFruta
+DTSTART:20251218T130000Z
+SUMMARY:Menú del Comedor
+UID:183a1538-1e0c-4a37-9b15-92ca08393cac@183a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pasta con chorizo\r\nMerluza a la romana con tomate\r\nFruta
+DTSTART:20251202T130000Z
+SUMMARY:Menú del Comedor
+UID:ae67ae12-cf3e-4d61-9e80-c6df919287f3@ae67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Crema de legumbres\r\nPavo al ajillo con verduras\r\nFruta
+DTSTART:20251203T130000Z
+SUMMARY:Menú del Comedor
+UID:330d9f0c-6ea6-48a7-a9ab-a77b8e9b458e@330d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sopa de estrellas\r\nLomo de cerdo al horno con pisto\r\nFruta
+DTSTART:20251212T130000Z
+SUMMARY:Menú del Comedor
+UID:b921f8e3-4865-43a5-a9c6-c4aec1db89f6@b921.org
 END:VEVENT
 END:VCALENDAR
