@@ -2,69 +2,69 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ensalada completa\r\nArroz al horno\r\nFruta
-DTSTART:20261218T130000Z
-SUMMARY:Menú del Comedor
-UID:506f38cf-9ad0-4268-9b7e-ba5a2098bb1c@506f.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Legumbres con calabaza y patata\r\nPechuga rebozada con pimientos\r\nFruta
 DTSTART:20261210T130000Z
 SUMMARY:Menú del Comedor
-UID:82908ea3-6e1e-4f91-b1b3-6366e153bfcf@8290.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Arroz a la cubana\r\nTortilla francesa con zanahoria\r\nFruta
-DTSTART:20261204T130000Z
-SUMMARY:Menú del Comedor
-UID:dbbd99e1-47a5-4221-93d5-b241c29ef39a@dbbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Crema de legumbres\r\nPavo al ajillo con verduras\r\nFruta
-DTSTART:20261203T130000Z
-SUMMARY:Menú del Comedor
-UID:564b5373-6fd6-447e-82b8-a1ddb844d6ca@564b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FESTIVO
-DTSTART:20261209T130000Z
-SUMMARY:Menú del Comedor
-UID:c485478a-61ff-48bd-acda-8ba52b1a530e@c485.org
+UID:2b2f3990-d6f1-40d6-b898-add2e198ee09@2b2f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Pasta con tomate\, bacon y queso\r\nPescado en salsa de verduras\r\nFruta
 DTSTART:20261211T130000Z
 SUMMARY:Menú del Comedor
-UID:f7ef9d3c-8bd6-46d7-b7d7-392820cc5e96@f7ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Crema de calabacín\r\nRagout de pavo\r\nFruta
-DTSTART:20261215T130000Z
-SUMMARY:Menú del Comedor
-UID:84a2c05e-5eaf-471a-b297-87376d393a6b@84a2.org
+UID:c3905e93-4a95-4588-a5c8-f5eb64250782@c390.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Lentejas con arroz y verduras\r\nTortilla de patatas con tomate\r\nFruta
 DTSTART:20261217T130000Z
 SUMMARY:Menú del Comedor
-UID:76665aa9-07e0-4292-b752-16952d667c4c@7666.org
+UID:2dc6a41c-5b5c-4ff1-af35-d85aaf5693e6@2dc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Crema de calabacín\r\nRagout de pavo\r\nFruta
+DTSTART:20261215T130000Z
+SUMMARY:Menú del Comedor
+UID:2086d25f-6400-4100-bda7-14e8d42d2a77@2086.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Lentejas con jamón\r\nLonganizas de pollo con tomate\r\nFruta
 DTSTART:20261201T130000Z
 SUMMARY:Menú del Comedor
-UID:882664a5-375f-46cd-8c87-891eb9191b45@8826.org
+UID:4e6f4bf2-3cd0-4a80-95d8-e07f5e4f6226@4e6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:FESTIVO
+DTSTART:20261209T130000Z
+SUMMARY:Menú del Comedor
+UID:8e2745e0-37e0-45e2-b97d-1a2d3e835f5b@8e27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Crema de legumbres\r\nPavo al ajillo con verduras\r\nFruta
+DTSTART:20261203T130000Z
+SUMMARY:Menú del Comedor
+UID:ddd501f8-5287-4824-8810-60a4faeae203@ddd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Arroz a la cubana\r\nTortilla francesa con zanahoria\r\nFruta
+DTSTART:20261204T130000Z
+SUMMARY:Menú del Comedor
+UID:03eb5255-70f9-45ac-8f78-2971bf193547@03eb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Pasta con chorizo\r\nMerluza a la romana con tomate\r\nFruta
 DTSTART:20261202T130000Z
 SUMMARY:Menú del Comedor
-UID:4c0c1bb0-3e76-46d2-bb69-fd829e33439e@4c0c.org
+UID:2c92360d-4116-42ce-ace2-3024d1c81296@2c92.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sopa de fideos\r\nCocido completo\r\nFruta
 DTSTART:20261216T130000Z
 SUMMARY:Menú del Comedor
-UID:a700a3e8-40d2-479e-ac32-e68bbf1b1672@a700.org
+UID:dbdbb5aa-e776-460b-9d64-c17f52e21c7b@dbdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada completa\r\nArroz al horno\r\nFruta
+DTSTART:20261218T130000Z
+SUMMARY:Menú del Comedor
+UID:158e8001-8d4a-4f8a-bc60-109371ea57d3@158e.org
 END:VEVENT
 END:VCALENDAR
