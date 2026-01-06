@@ -2,69 +2,69 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Lentejas con arroz y verduras\r\nTortilla de patatas con tomate\r\nFruta
-DTSTART:20261217T130000Z
-SUMMARY:Menú del Comedor
-UID:74e72181-f0e9-4423-a694-81e7e0c896b4@74e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lentejas con jamón\r\nLonganizas de pollo con tomate\r\nFruta
-DTSTART:20261201T130000Z
-SUMMARY:Menú del Comedor
-UID:3c1bad01-dee1-4ba5-8f32-4446739ffc87@3c1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Crema de calabacín\r\nRagout de pavo\r\nFruta
-DTSTART:20261215T130000Z
-SUMMARY:Menú del Comedor
-UID:a05fd086-1ea0-4dde-af06-c95af2db2900@a05f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Arroz a la cubana\r\nTortilla francesa con zanahoria\r\nFruta
-DTSTART:20261204T130000Z
-SUMMARY:Menú del Comedor
-UID:b37832cb-355b-48a1-91af-8c3422b3b0f1@b378.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pasta con chorizo\r\nMerluza a la romana con tomate\r\nFruta
-DTSTART:20261202T130000Z
-SUMMARY:Menú del Comedor
-UID:4b963ce7-7693-4adc-b684-024eedf74141@4b96.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Sopa de fideos\r\nCocido completo\r\nFruta
 DTSTART:20261216T130000Z
 SUMMARY:Menú del Comedor
-UID:135e394d-859b-498b-a987-2810644ac162@135e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Legumbres con calabaza y patata\r\nPechuga rebozada con pimientos\r\nFruta
-DTSTART:20261210T130000Z
-SUMMARY:Menú del Comedor
-UID:b9ee12d5-9107-4aad-8cd3-2983c0c40e70@b9ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Crema de legumbres\r\nPavo al ajillo con verduras\r\nFruta
-DTSTART:20261203T130000Z
-SUMMARY:Menú del Comedor
-UID:4aed6145-aa28-4bf1-8216-a37ad3d34a06@4aed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pasta con tomate\, bacon y queso\r\nPescado en salsa de verduras\r\nFruta
-DTSTART:20261211T130000Z
-SUMMARY:Menú del Comedor
-UID:bcdac09f-db9d-4e09-a0d5-50f06ca720cd@bcda.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FESTIVO
-DTSTART:20261209T130000Z
-SUMMARY:Menú del Comedor
-UID:610a3993-7d43-4a87-90c9-44fb169db20e@610a.org
+UID:ff52f96d-4bea-41cb-b6e8-9363f896c0f8@ff52.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ensalada completa\r\nArroz al horno\r\nFruta
 DTSTART:20261218T130000Z
 SUMMARY:Menú del Comedor
-UID:21ec86b7-9b93-43e4-98c7-bb0d4add89e7@21ec.org
+UID:15be479c-cf4e-4620-96f6-3710fab6bd20@15be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pasta con tomate\, bacon y queso\r\nPescado en salsa de verduras\r\nFruta
+DTSTART:20261211T130000Z
+SUMMARY:Menú del Comedor
+UID:3e4d53f7-3a73-44c1-8f34-1a60ee5d83df@3e4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Legumbres con calabaza y patata\r\nPechuga rebozada con pimientos\r\nFruta
+DTSTART:20261210T130000Z
+SUMMARY:Menú del Comedor
+UID:f6ed6701-2370-481c-8071-cf2dc6e5b770@f6ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Crema de legumbres\r\nPavo al ajillo con verduras\r\nFruta
+DTSTART:20261203T130000Z
+SUMMARY:Menú del Comedor
+UID:09e7b37b-7cdc-4c68-abe8-e54cc7524c4a@09e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Arroz a la cubana\r\nTortilla francesa con zanahoria\r\nFruta
+DTSTART:20261204T130000Z
+SUMMARY:Menú del Comedor
+UID:e858ec36-4fef-4567-b8e9-2c24702bca24@e858.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Crema de calabacín\r\nRagout de pavo\r\nFruta
+DTSTART:20261215T130000Z
+SUMMARY:Menú del Comedor
+UID:b4ea1f9a-37e9-41dd-9fe2-c7949e8762a3@b4ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lentejas con arroz y verduras\r\nTortilla de patatas con tomate\r\nFruta
+DTSTART:20261217T130000Z
+SUMMARY:Menú del Comedor
+UID:25b5912b-e1ee-442a-8522-d02ce73a233c@25b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lentejas con jamón\r\nLonganizas de pollo con tomate\r\nFruta
+DTSTART:20261201T130000Z
+SUMMARY:Menú del Comedor
+UID:1f33fe3f-2499-4105-9d6f-767d1fed5291@1f33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:FESTIVO
+DTSTART:20261209T130000Z
+SUMMARY:Menú del Comedor
+UID:63cab6ee-24b0-485b-bb04-9437b6d102b8@63ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pasta con chorizo\r\nMerluza a la romana con tomate\r\nFruta
+DTSTART:20261202T130000Z
+SUMMARY:Menú del Comedor
+UID:93991036-321a-4d7b-aeb4-cb3c1bc197cb@9399.org
 END:VEVENT
 END:VCALENDAR
