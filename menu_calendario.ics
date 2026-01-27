@@ -2,123 +2,123 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Sopa de fideos\r\nPescado al horno con base de patatas\r\nLácteo
-DTSTART:20260116T130000Z
+DESCRIPTION:Sopa de pollo con letritas\r\nAlitas de pollo con patatas asadas\r\nFruta
+DTSTART:20260107T130000Z
 SUMMARY:Menú del Comedor
-UID:8faad949-89cb-4f84-a6a8-feba7a9888cc@8faa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Guisado de costillas con patatas\r\nTortilla de caballa\r\nFruta
-DTSTART:20260128T130000Z
-SUMMARY:Menú del Comedor
-UID:3deb310d-e12e-462a-ab92-3d1c614598ad@3deb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sopa de fideos\r\nCocido completo\r\nFruta
-DTSTART:20260127T130000Z
-SUMMARY:Menú del Comedor
-UID:d177a312-77e1-4f15-b0e5-fc17e77f8fe3@d177.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Puré de verduras\r\nEstofado de pavo en salsa\r\nFruta
-DTSTART:20260114T130000Z
-SUMMARY:Menú del Comedor
-UID:74906f55-f0ce-4079-a385-1a73be0269c0@7490.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Potaje de garbanzos con verduras\r\nTortilla de calabacín\r\nFruta
-DTSTART:20260119T130000Z
-SUMMARY:Menú del Comedor
-UID:c8daeacf-1c79-4caa-87c2-74baaeb924e8@c8da.org
+UID:d6c40ccb-a414-45f2-aa3a-76b42766fb11@d6c4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Legumbres con calabaza y patata\r\nPescado al horno a la riojana\r\nFruta
 DTSTART:20260113T130000Z
 SUMMARY:Menú del Comedor
-UID:90d2ea1b-266f-4114-b8d8-261e570f39ad@90d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ensalada con queso\r\nFideuá con pescado\r\nLácteo
-DTSTART:20260123T130000Z
-SUMMARY:Menú del Comedor
-UID:9cba6ea5-193a-489c-bca4-70366032fe4d@9cba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pasta con jamón y tomate\r\nPescado a la romana\r\nFruta
-DTSTART:20260120T130000Z
-SUMMARY:Menú del Comedor
-UID:b94ed31d-2008-40af-8230-a87efbd07970@b94e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lentejas estofadas\r\nRevuelto de champiñones con pimientos asados\r\nLácteos
-DTSTART:20260109T130000Z
-SUMMARY:Menú del Comedor
-UID:aae8cece-c339-4b43-a9b7-683a7cf5fef2@aae8.org
+UID:5f984903-f3c6-49d2-add0-e52bd6034dfa@5f98.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Crema de legumbres\r\nLonganizas de pollo con tomate\r\nFruta
 DTSTART:20260126T130000Z
 SUMMARY:Menú del Comedor
-UID:630f51f1-599d-4b8a-9ed4-1b7918b7bc48@630f.org
+UID:480b8054-faec-49a4-a80b-fbdc02b60826@480b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Arroz con tomate\r\nPechuga rebozada con pimientos\r\nFruta
-DTSTART:20260129T130000Z
+DESCRIPTION:Ensalada con queso\r\nFideuá con pescado\r\nLácteo
+DTSTART:20260123T130000Z
 SUMMARY:Menú del Comedor
-UID:d6e4bace-a46e-42b8-a518-04c989f19d97@d6e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ensalada completa\r\nPaella valenciana\r\nFruta
-DTSTART:20260115T130000Z
-SUMMARY:Menú del Comedor
-UID:03fb4ed9-ec03-4229-946f-21152a89b412@03fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ensalada completa\r\nPasta boloñesa\r\nFruta
-DTSTART:20260112T130000Z
-SUMMARY:Menú del Comedor
-UID:974715fe-b15e-43af-85fd-137ab9ddfc89@9747.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FESTIVO
-DTSTART:20260122T130000Z
-SUMMARY:Menú del Comedor
-UID:323edce7-73ad-485c-95a7-5cedcc157493@323e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pasta con salsa de verduras\r\nPescado en salsa verde\r\nLácteo
-DTSTART:20260130T130000Z
-SUMMARY:Menú del Comedor
-UID:7edf5c9e-442f-405a-8154-74660f3c2d14@7edf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pasta con caballa y tomate\r\nPescado a la romana casera con verduras\r\nFruta
-DTSTART:20260108T130000Z
-SUMMARY:Menú del Comedor
-UID:74cf1d47-880d-4b49-9688-169df895ee32@74cf.org
+UID:4a4bb089-f4d2-498f-80bd-80168840e146@4a4b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Crema de calabaza\r\nAlbóndigas en salsa con patatas y verdura\r\nFruta
 DTSTART:20260121T130000Z
 SUMMARY:Menú del Comedor
-UID:c1affd40-ad71-498f-a064-a38ebd0843bc@c1af.org
+UID:ac04a7c9-56e4-42bd-a08a-6485a84c55f9@ac04.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sopa de pollo con letritas\r\nAlitas de pollo con patatas asadas\r\nFruta
-DTSTART:20260107T130000Z
+DESCRIPTION:Ensalada completa\r\nPaella valenciana\r\nFruta
+DTSTART:20260115T130000Z
 SUMMARY:Menú del Comedor
-UID:12e1e303-e140-456f-a5b2-eb20768848b8@12e1.org
+UID:ab1d6bfb-0f3b-4a92-9792-172875dd9f90@ab1d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:FESTIVO
 DTSTART:20260106T130000Z
 SUMMARY:Menú del Comedor
-UID:2ba2a525-a879-4506-8d92-3a493a6a7231@2ba2.org
+UID:55a875a2-1780-45d9-9e1a-1361e2ccc511@55a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada completa\r\nPasta boloñesa\r\nFruta
+DTSTART:20260112T130000Z
+SUMMARY:Menú del Comedor
+UID:89d6afd8-30c4-4eaf-8f4c-b44c92e742eb@89d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pasta con salsa de verduras\r\nPescado en salsa verde\r\nLácteo
+DTSTART:20260130T130000Z
+SUMMARY:Menú del Comedor
+UID:656c1581-468f-4d92-975d-45bd00ae403f@656c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pasta con jamón y tomate\r\nPescado a la romana\r\nFruta
+DTSTART:20260120T130000Z
+SUMMARY:Menú del Comedor
+UID:f5e5a0c3-87b7-4b3b-a3ed-907469b2c4de@f5e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lentejas estofadas\r\nRevuelto de champiñones con pimientos asados\r\nLácteos
+DTSTART:20260109T130000Z
+SUMMARY:Menú del Comedor
+UID:f9b63c33-47df-4b5b-9289-de409572c586@f9b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Guisado de costillas con patatas\r\nTortilla de caballa\r\nFruta
+DTSTART:20260128T130000Z
+SUMMARY:Menú del Comedor
+UID:5cd30581-f0e2-436d-9224-35e82a13eb55@5cd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sopa de fideos\r\nPescado al horno con base de patatas\r\nLácteo
+DTSTART:20260116T130000Z
+SUMMARY:Menú del Comedor
+UID:1d407843-9e9c-4d6f-bd03-a8465ca6925b@1d40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Arroz con tomate\r\nPechuga rebozada con pimientos\r\nFruta
+DTSTART:20260129T130000Z
+SUMMARY:Menú del Comedor
+UID:e40851c1-5c17-46d3-b3da-777bd75400dc@e408.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sopa de fideos\r\nCocido completo\r\nFruta
+DTSTART:20260127T130000Z
+SUMMARY:Menú del Comedor
+UID:139571ca-48b5-45d1-9448-64e2816ee7bd@1395.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pasta con caballa y tomate\r\nPescado a la romana casera con verduras\r\nFruta
+DTSTART:20260108T130000Z
+SUMMARY:Menú del Comedor
+UID:d192357e-195e-4657-8fbe-052c8911f587@d192.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Puré de verduras\r\nEstofado de pavo en salsa\r\nFruta
+DTSTART:20260114T130000Z
+SUMMARY:Menú del Comedor
+UID:bef00991-b06b-4192-916f-acf00a0cc38e@bef0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:FESTIVO
 DTSTART:20260105T130000Z
 SUMMARY:Menú del Comedor
-UID:a269a747-581b-4281-8a58-0ec8b4cfbc92@a269.org
+UID:f19192e1-7e6a-4383-b130-11b718b4ab54@f191.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:FESTIVO
+DTSTART:20260122T130000Z
+SUMMARY:Menú del Comedor
+UID:d69225c2-7369-4d52-a9a3-1a7f62140174@d692.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Potaje de garbanzos con verduras\r\nTortilla de calabacín\r\nFruta
+DTSTART:20260119T130000Z
+SUMMARY:Menú del Comedor
+UID:6cb2ac7d-bd50-4227-9c0f-231ac958c5cf@6cb2.org
 END:VEVENT
 END:VCALENDAR
