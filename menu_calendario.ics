@@ -2,135 +2,135 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:FESTIVO
-DTSTART:20260407T130000Z
-SUMMARY:Menú del Comedor
-UID:f95f4a19-e4e7-41ea-8968-459dc5658406@f95f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pasta integral carbonara\r\nPescado a la romana casero con salsa de tomate\r\nFruta
-DTSTART:20260401T130000Z
-SUMMARY:Menú del Comedor
-UID:42ee038a-a4f6-41ce-a503-2d2e9869d118@42ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hervido valenciano\r\nRagout de pavo\r\nFruta
-DTSTART:20260422T130000Z
-SUMMARY:Menú del Comedor
-UID:d64c4c3e-f431-43fc-893f-8c1cd19d4450@d64c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pasta integral con atún\r\nPescado al horno con patatas\r\nFruta
-DTSTART:20260423T130000Z
-SUMMARY:Menú del Comedor
-UID:fbb56d11-5a58-40d6-89bc-d00f83a610cb@fbb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FESTIVO
-DTSTART:20260413T130000Z
-SUMMARY:Menú del Comedor
-UID:1add3051-2955-4113-b698-16b61f32d008@1add.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pasta INTEGRAL con salsa de verdura\r\nPisto con caballa\r\nLácteo
-DTSTART:20260430T130000Z
-SUMMARY:Menú del Comedor
-UID:400858a4-66a6-4467-95c2-5560cf811e29@4008.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lentejas ECO con jamón y verdura\r\nRevuelto de champiñones con lechuga y zanahoria\r\nFruta\r\nPan integral
-DTSTART:20260414T130000Z
-SUMMARY:Menú del Comedor
-UID:826f18bc-4627-4f8a-9325-a4f9d132f5b5@826f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FESTIVO
-DTSTART:20260403T130000Z
-SUMMARY:Menú del Comedor
-UID:bc04a23e-1486-4fc1-8ec6-da0c237f2676@bc04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FESTIVO
-DTSTART:20260409T130000Z
-SUMMARY:Menú del Comedor
-UID:d7dcc41d-704a-4ae8-8963-3b8167d409d9@d7dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FESTIVO
-DTSTART:20260406T130000Z
-SUMMARY:Menú del Comedor
-UID:187e9e8e-7d98-4a0a-8058-515bcb2e9ebc@187e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FESTIVO
-DTSTART:20260408T130000Z
-SUMMARY:Menú del Comedor
-UID:01a871b4-74c4-438a-b2f9-8ed1f5b090f8@01a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Arroz con tomate\r\nPescado a la romana\r\nFruta\r\nPan integral
-DTSTART:20260421T130000Z
-SUMMARY:Menú del Comedor
-UID:2f1c53e7-c313-49ae-8a24-ae02c0cf749f@2f1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FESTIVO
-DTSTART:20260402T130000Z
-SUMMARY:Menú del Comedor
-UID:d7f476ee-c43c-4df1-8284-d9b61902af39@d7f4.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Guiso de pescado con patatas\r\nMuslos de pollo al horno\r\nFruta\r\nPan integral
 DTSTART:20260428T130000Z
 SUMMARY:Menú del Comedor
-UID:7c5d7e0f-5b81-4b78-b34d-bdf008e86d94@7c5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lentejas ECO con arroz y verdura\r\nTortilla francesa con tomate\r\nLácteo\r\nPan integral
-DTSTART:20260424T130000Z
-SUMMARY:Menú del Comedor
-UID:253777a2-c8f7-4854-9a40-aaaef407d70e@2537.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Crema de legumbres\r\nPollo estilo griego\r\nFruta
-DTSTART:20260420T130000Z
-SUMMARY:Menú del Comedor
-UID:d2dac149-9531-494f-b419-607d356d852c@d2da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sopa de fideos\r\nPescado al horno con salsa verde\r\nFruta
-DTSTART:20260415T130000Z
-SUMMARY:Menú del Comedor
-UID:0a933b7a-be53-4988-840f-efe4d9be0799@0a93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pasta INTEGRAL con verduras\r\nSalmón a la naranja con cebolla\r\nLácteo\r\nPan integral
-DTSTART:20260417T130000Z
-SUMMARY:Menú del Comedor
-UID:c355bdd7-a358-4b3c-b5cf-753a4dfd6323@c355.org
+UID:8344385b-9d6d-4993-b026-afd244761b45@8344.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Potaje de garbanzos con verduras\r\nTortilla de patatas con tomate\r\nFruta
 DTSTART:20260427T130000Z
 SUMMARY:Menú del Comedor
-UID:504c6ae5-7b27-4b51-9fbb-81b28ac58446@504c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ensalada completa\r\nArroz al horno\r\nFruta
-DTSTART:20260429T130000Z
-SUMMARY:Menú del Comedor
-UID:1a89a646-7361-43ca-a8c3-45c8c8b0a011@1a89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Crema de puerros y patata\r\nHamburguesa de pollo con queso y patatas fritas\r\nFruta
-DTSTART:20260416T130000Z
-SUMMARY:Menú del Comedor
-UID:4965c357-7580-4d6d-9ea5-11079b0c23c8@4965.org
+UID:e1514d23-9c85-4c0d-b12d-e7441c1963fe@e151.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:FESTIVO
 DTSTART:20260410T130000Z
 SUMMARY:Menú del Comedor
-UID:f0e3268a-09f0-4dbb-80f0-df8854e0cfb5@f0e3.org
+UID:679773aa-1556-45a7-87ac-dac539f0afff@6797.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:FESTIVO
+DTSTART:20260406T130000Z
+SUMMARY:Menú del Comedor
+UID:e75d090b-5721-4149-b327-6d8aea13ff93@e75d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pasta integral con atún\r\nPescado al horno con patatas\r\nFruta
+DTSTART:20260423T130000Z
+SUMMARY:Menú del Comedor
+UID:cbcfb335-9638-4183-b8d6-d97d6ccab3e8@cbcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pasta integral carbonara\r\nPescado a la romana casero con salsa de tomate\r\nFruta
+DTSTART:20260401T130000Z
+SUMMARY:Menú del Comedor
+UID:acc60f9e-ade9-4be5-aca6-23539099cf44@acc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:FESTIVO
+DTSTART:20260408T130000Z
+SUMMARY:Menú del Comedor
+UID:a84098eb-d8ed-4a62-85d8-0368be066a4d@a840.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:FESTIVO
+DTSTART:20260403T130000Z
+SUMMARY:Menú del Comedor
+UID:79986ec1-a44d-4c05-b226-f33e36e9d98a@7998.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hervido valenciano\r\nRagout de pavo\r\nFruta
+DTSTART:20260422T130000Z
+SUMMARY:Menú del Comedor
+UID:52a76dfa-6174-4734-ac7f-f9e4ae84bde0@52a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Arroz con tomate\r\nPescado a la romana\r\nFruta\r\nPan integral
+DTSTART:20260421T130000Z
+SUMMARY:Menú del Comedor
+UID:45f6ec90-9d2e-41d7-b5f1-022903b48b25@45f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:FESTIVO
+DTSTART:20260413T130000Z
+SUMMARY:Menú del Comedor
+UID:ab46783e-2657-4833-961c-f51c7a7d0e52@ab46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sopa de fideos\r\nPescado al horno con salsa verde\r\nFruta
+DTSTART:20260415T130000Z
+SUMMARY:Menú del Comedor
+UID:5edd9e62-b437-43ff-b63e-dbe96d89919b@5edd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Crema de puerros y patata\r\nHamburguesa de pollo con queso y patatas fritas\r\nFruta
+DTSTART:20260416T130000Z
+SUMMARY:Menú del Comedor
+UID:89722b3a-6c74-4634-8926-21204cc7ec22@8972.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:FESTIVO
+DTSTART:20260407T130000Z
+SUMMARY:Menú del Comedor
+UID:1a3b69d2-2bbd-4df7-9ab0-dcc6cc9735e4@1a3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lentejas ECO con arroz y verdura\r\nTortilla francesa con tomate\r\nLácteo\r\nPan integral
+DTSTART:20260424T130000Z
+SUMMARY:Menú del Comedor
+UID:2e307099-d5c1-4022-9f71-89f553350ee7@2e30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ensalada completa\r\nArroz al horno\r\nFruta
+DTSTART:20260429T130000Z
+SUMMARY:Menú del Comedor
+UID:009c2b43-f759-4a8b-987a-f8d83f2a3a58@009c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:FESTIVO
+DTSTART:20260409T130000Z
+SUMMARY:Menú del Comedor
+UID:cf85834d-ada2-4fe7-aee6-51980015c144@cf85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:FESTIVO
+DTSTART:20260402T130000Z
+SUMMARY:Menú del Comedor
+UID:f200febd-68f3-4167-9f80-ec10696ead59@f200.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pasta INTEGRAL con verduras\r\nSalmón a la naranja con cebolla\r\nLácteo\r\nPan integral
+DTSTART:20260417T130000Z
+SUMMARY:Menú del Comedor
+UID:be3d9ab6-486c-4421-b612-1fd47d5a90da@be3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pasta INTEGRAL con salsa de verdura\r\nPisto con caballa\r\nLácteo
+DTSTART:20260430T130000Z
+SUMMARY:Menú del Comedor
+UID:61a5f067-d649-4372-8658-cbec68c495eb@61a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lentejas ECO con jamón y verdura\r\nRevuelto de champiñones con lechuga y zanahoria\r\nFruta\r\nPan integral
+DTSTART:20260414T130000Z
+SUMMARY:Menú del Comedor
+UID:dfe275af-a8c7-4495-aa82-43f73320b0bf@dfe2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Crema de legumbres\r\nPollo estilo griego\r\nFruta
+DTSTART:20260420T130000Z
+SUMMARY:Menú del Comedor
+UID:ef027812-ada4-4fe9-afaf-40616f766fdf@ef02.org
 END:VEVENT
 END:VCALENDAR
